@@ -117,9 +117,36 @@ python3 analysis/ground_truth.py && python3 analysis/data_quality.py
 | File | What it is |
 |---|---|
 | [`01_verification_log.md`](deliverables/01_verification_log.md) | 7 Quick Chat checks across all three knowledge bases, each against an independently computed expected answer |
-| [`05_q_exploration_log.md`](deliverables/05_q_exploration_log.md) | Natural-language exploration, cross-checked against the dashboard |
+| [`03_dashboard_export_all_sheets.pdf`](deliverables/03_dashboard_export_all_sheets.pdf) | Published dashboard exported to PDF, all three sheets |
+| [`05_q_exploration_log.md`](deliverables/05_q_exploration_log.md) | 6 exploration entries plus the before/after Topic comparison, each cross-checked against the dashboard |
+| [`06_dashboard_executive_summary.md`](deliverables/06_dashboard_executive_summary.md) | Amazon Quick's auto-generated executive summaries, verified — including one that misreports the top loss reasons |
 | [`07_dashboard_annotations.md`](deliverables/07_dashboard_annotations.md) | Annotation text: quantified finding → business implication → action |
 | [`08_executive_report.md`](deliverables/08_executive_report.md) | 1–3 page report for VP Sarah Chen |
+| [`SHOT_LIST.md`](screenshots/SHOT_LIST.md) | Direct links to every built artifact in the Quick workspace |
+
+## What was built in Amazon Quick
+
+| Asset | Detail |
+|---|---|
+| **Datasets (4, all SPICE)** | CRM Deals, Marketing Campaigns, Support Tickets (each with corrected data types and calculated fields) plus the unified CRM⟕Marketing⟕Support join |
+| **Calculated fields (10)** | `days_to_close`, `is_won`, `discount_from_list_pct`, `campaign_roi_pct`, `is_closed_won_lead`, `net_campaign_contribution`, `resolution_hours`, `sentiment_clean`, `is_high_priority`, `is_negative_sentiment` |
+| **Dashboard** | 3 sheets, KPI cards and visuals on each, 6 filter controls, click-to-filter actions on two visuals, and a cross-sheet navigation action from Customer Health → Sales Pipeline |
+| **Topic** | `NovaTech Revenue Intelligence` — business glossary, 6 data-quality rules, an explicit fan-out rule, and a fields-to-ignore list |
+
+### Where the AI helped, and where it didn't
+
+Configuring the Topic cut the revenue question from **five reasoning steps to
+one**, got Quick Chat using the phrase "booked revenue", and made it declare its
+own exclusions. On the hardest question — ticket volume versus revenue per
+account, across the joined data — it returned $154.7K for the top ten accounts
+against an independently computed **$154,709**, evidence the fan-out rule held.
+
+It was not uniformly reliable. Twice the metric asked for was exact while an
+unrequested column beside it was wrong, and the auto-generated Sales Pipeline
+summary cited the **three smallest** loss reasons as the "top" ones, omitting the
+two tied at the top that together drive 46.7% of losses. The working rule that
+came out of this: **trust the number you asked for; verify any number that
+arrives alongside it.**
 
 ---
 
