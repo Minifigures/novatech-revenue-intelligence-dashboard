@@ -182,29 +182,64 @@ average won deal of $2,245.08; 2,240 leads with 609 responses; the ticket split
 across priority levels; and the 24 missing income values. These matched the
 dashboard and my own calculations to the cent.
 
-**Where it differed.** Asked about resolution times, Quick Chat reported 1.79
-days for critical and 1.97 days for low priority, against the dashboard's 56.6
-and 59.4 hours. This is not an error by either system. Quick Chat counts whole
-calendar days and discards the time of day; the dashboard measures exact elapsed
-time. I reproduced the calendar-day method by hand and got 1.79 and 1.97 exactly,
-which confirms the explanation. Importantly, **both methods lead to the same
-conclusion** — critical tickets are barely faster than low-priority ones — and
-Quick Chat volunteered that interpretation without being prompted.
+It also volunteered useful interpretation unprompted: asked only for spend and
+revenue totals, it observed that spend far exceeded attributed revenue and
+suggested investigating which campaigns drove the gap — the same
+over-attribution problem described earlier, found independently.
 
-**Where it added something.** Asked only for spend and revenue totals, Quick
-Chat noted unprompted that spend far exceeded attributed revenue and suggested
-looking at which campaigns were driving the gap. That is the same
-over-attribution problem described above, found independently.
+**Where it differed — and why that was instructive.** During initial
+verification, asked about resolution times, Quick Chat reported 1.79 days for
+critical and 1.97 days for low priority, against my calculated 56.6 and 59.4
+hours. Neither was wrong. Quick Chat was counting whole calendar days and
+discarding the time of day; I was measuring exact elapsed time. Reproducing the
+calendar-day method by hand returned 1.79 and 1.97 exactly, confirming the
+explanation — and both methods lead to the same conclusion. This is why the
+dashboard now states its unit explicitly.
 
-**What this means for how the team should use it.** Quick Chat is reliable for
-"what is the number" questions and genuinely fast for ad-hoc ones nobody
-anticipated. It is less reliable when a metric depends on a definition — a
-window, a unit, or which rows to exclude — because it will pick a reasonable
-definition without announcing it. The rule I would give the team: use the
-dashboard when the number goes in front of a customer or a board, and use Quick
-Chat to explore and to decide what to look at next. When the two disagree, the
-difference is almost always a definition, and it is worth understanding rather
-than overriding.
+### What configuring a Topic actually changed
+
+A *Topic* is a description of the data in business language — what "revenue"
+means here, which fields to ignore, which counting rules apply. I asked the same
+three questions before and after building one.
+
+The headline is **not** that answers went from wrong to right. The baseline was
+already accurate, because the dashboard underneath it was carefully built. What
+changed was how answers were reached and expressed:
+
+- **The revenue question dropped from five reasoning steps to one.** Before, Quick
+  Chat hit the "Total Deal Value" card, realised it covered all deals, and had to
+  work its way to the Won filter. After, it answered directly.
+- **It adopted our vocabulary.** It began replying in terms of "booked revenue"
+  rather than generic deal value — the exact phrase defined in the Topic.
+- **It started declaring its assumptions.** On resolution times it now states
+  "unresolved tickets were excluded from these calculations" instead of applying
+  that rule silently. On a shared dashboard, a stated assumption is worth as much
+  as a correct number.
+- **It handled the hardest question correctly.** Asked which accounts file the
+  most tickets and what those accounts are worth, it returned $154.7K across the
+  top ten — 22% of booked revenue. The independently computed figure is $154,709,
+  or 21.9%. That question spans the joined data where a naive total would have
+  been overstated roughly 127 times, so this is direct evidence the fan-out rule
+  written into the Topic was applied.
+
+**What the Topic did not fix.** Twice, the metric I asked for was correct while a
+supporting figure printed beside it was not. Asked for closed-won rates by
+channel, the five rates were exact but an unrequested "lead count" column was
+wrong for four of five channels — and those five values summed to exactly 1,000,
+the signature of a truncated result set. Asked for resolution times, the averages
+were right to a tenth of an hour but the accompanying ticket counts matched
+neither the resolved nor the total counts. Tellingly, when that same lead-count
+metric was asked as the *main* question, it came back exactly right.
+
+**What this means for how the team should use it.** Use the **dashboard**
+whenever a number leaves the building — a board deck, a customer conversation, a
+target. Its definitions are fixed, visible and reviewable. Use **Quick Chat** to
+explore: to ask the question nobody built a chart for, and to decide what
+deserves a chart. The operating rule I would give the team is short: **trust the
+number you asked for; verify any number that arrives alongside it.** Both misses
+were in columns nobody requested. And when the two sources disagree, assume a
+definition difference before assuming an error — the one real discrepancy found
+in this project turned out to be exactly that.
 
 ---
 
