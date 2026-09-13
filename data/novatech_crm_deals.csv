@@ -1,0 +1,500 @@
+account_id,company_name,industry,company_size_tier,annual_revenue_usd,employee_count,headquarters,opportunity_id,sales_rep,sales_manager,sales_region,product_name,product_category,list_price,deal_stage,deal_created_date,deal_closed_date,deal_value,loss_reason,data_source
+ACCT-082,RavenCroft Studios,Media & Entertainment,Medium,324.19,978,United States,OPP-93810,Oliver Dubois,Brian Nakamura,West,NovaEdge Lite,NovaEdge,55,Won,2024-08-15,2024-12-17,57.0,,CRM
+ACCT-085,Horizon Marketing,Marketing & Advertising,Large,2173.98,2928,United States,OPP-24592,Raj Patel,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2023-12-06,2024-03-20,51.0,,CRM
+ACCT-073,IndigoVault Finance,Financial Services,Enterprise,2022.14,5113,United States,OPP-13278,Nadia Volkov,Rachel Torres,East,NovaEdge Lite,NovaEdge,55,Won,2024-08-23,2024-09-06,54.0,,CRM
+ACCT-012,FreshStart Medical,Healthcare,Small,4.54,9,United States,OPP-46048,Priya Nair,David Kim,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2024-04-10,2024-07-30,5712.0,,CRM
+ACCT-033,ThunderBay Retail,Retail,Medium,223.8,299,United States,OPP-42098,Noah Kim,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2024-05-01,2024-09-06,3295.0,,CRM
+ACCT-076,LionGate Holdings,Financial Services,Enterprise,7537.24,20293,United States,OPP-39256,Chloe Bergman,Brian Nakamura,West,NovaEdge Advanced,NovaEdge,3393,Won,2023-10-15,2024-01-03,3106.0,,CRM
+ACCT-066,WillowBrook Staffing,Professional Services,Medium,291.27,586,United States,OPP-28289,Anika Larsson,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Won,2024-05-14,2024-05-26,541.0,,CRM
+ACCT-006,CrestLine Retail,Retail,Large,497.11,1588,United States,OPP-23434,Fatima Al-Rashid,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Won,2024-01-14,2024-01-22,51.0,,CRM
+ACCT-026,QuartzPoint Trading,Retail,Large,2520.83,3502,United States,OPP-98696,Ethan Clarke,Rachel Torres,East,NovaPulse Standard,NovaPulse,1096,Won,2024-10-11,2024-10-18,1004.0,,CRM
+ACCT-027,RiverStone Imports,Retail,Large,894.33,1635,Italy,OPP-81482,Priya Nair,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-03-08,2024-03-28,3604.0,,CRM
+ACCT-028,SilverLine Tech,Technology,Large,1223.72,2497,Norway,OPP-21395,Anika Larsson,Sarah Mitchell,Central,NovaPulse Standard,NovaPulse,1096,Won,2023-12-05,2024-04-08,1020.0,,CRM
+ACCT-018,LakeView Software,Software,Enterprise,4618.0,10083,United States,OPP-87397,Derek Johnson,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-03-24,2024-07-29,3250.0,,CRM
+ACCT-023,OakBridge Staffing,Professional Services,Large,2059.9,3644,United States,OPP-65302,Grace Adeyemi,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2023-10-19,2023-12-17,3602.0,,CRM
+ACCT-063,TideWater Retail,Retail,Enterprise,2214.94,5374,United States,OPP-14165,Daniel Santos,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2023-08-15,2024-01-07,552.0,,CRM
+ACCT-062,StoneHarbor Medical,Healthcare,Enterprise,2818.38,6290,United States,OPP-13905,Amira Diallo,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Won,2024-10-22,2024-11-01,4345.0,,CRM
+ACCT-057,OmniReach Telecom,Telecommunications,Large,1188.42,3015,United States,OPP-22280,Noah Kim,Amanda Foster,West,NovaPulse Standard,NovaPulse,1096,Won,2024-07-02,2024-09-18,1193.0,,CRM
+ACCT-077,MoonRise Entertainment,Media & Entertainment,Enterprise,3838.39,8274,United States,OPP-38657,Suki Tanaka,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Won,2024-07-13,2025-01-05,517.0,,CRM
+ACCT-001,Apex Dynamics,Technology,Large,1100.04,2822,United States,OPP-40495,Amira Diallo,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Won,2024-10-21,2024-10-23,1096.0,,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-76237,Anika Larsson,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Won,2024-03-10,2024-03-29,472.0,,CRM
+ACCT-044,BluePeak Marketing,Marketing & Advertising,Large,375.43,1190,United States,OPP-88907,Raj Patel,Sarah Mitchell,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2023-12-19,2024-03-13,5121.0,,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-13478,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Won,2024-04-25,2024-08-27,5322.0,,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-83563,Priya Nair,David Kim,Central,NovaEdge Lite,NovaEdge,55,Won,2024-10-19,2025-01-14,60.0,,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-36062,Maya Chen,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2024-08-15,2024-11-18,58.0,,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-95181,Andre Moreau,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Won,2023-12-28,2024-04-24,564.0,,CRM
+ACCT-037,Vanguard Marketing Group,Marketing & Advertising,Enterprise,2403.58,8801,United States,OPP-81426,Sofia Martinez,Sarah Mitchell,Central,NovaPulse Standard,NovaPulse,1096,Won,2024-03-11,2024-07-16,1083.0,,CRM
+ACCT-014,HarborView Digital,Software,Small,98.79,96,United States,OPP-64987,Anya Petrov,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2024-10-08,2024-10-09,473.0,,CRM
+ACCT-056,NetPulse Technologies,Technology,Enterprise,2938.67,8775,Panama,OPP-38893,Marcus Webb,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Won,2024-06-30,2024-07-01,5741.0,,CRM
+ACCT-052,JadeVault Finance,Financial Services,Medium,355.23,853,United States,OPP-68878,James Okafor,Rachel Torres,East,NovaPulse Enterprise,NovaPulse,5482,Won,2024-02-08,2024-02-10,5805.0,,CRM
+ACCT-048,FrontLine Marketing,Marketing & Advertising,Enterprise,3027.46,9516,Jordan,OPP-87236,Suki Tanaka,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Won,2024-04-19,2024-09-13,4370.0,,CRM
+ACCT-025,PineRidge Global,Retail,Enterprise,5158.71,17479,Japan,OPP-46463,Finn O'Brien,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Won,2023-11-29,2024-03-25,609.0,,CRM
+ACCT-024,PeakVista Capital,Financial Services,Enterprise,2819.5,7227,United States,OPP-10851,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Won,2023-12-10,2024-04-03,4978.0,,CRM
+ACCT-029,SkyCrest Telecom,Telecommunications,Small,86.68,187,United States,OPP-30926,Owen McCarthy,David Kim,Central,NovaEdge Lite,NovaEdge,55,Won,2024-03-14,2024-05-10,59.0,,CRM
+ACCT-040,XenonGrid Retail,Retail,Large,1388.67,3583,United States,OPP-65392,Mei Lin Zhang,Brian Nakamura,West,NovaPulse Enterprise,NovaPulse,5482,Won,2023-11-15,2024-05-03,4066.0,,CRM
+ACCT-016,JetStream Technologies,Technology,Large,587.72,1501,United States,OPP-54597,Daniel Santos,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Won,2024-06-17,2024-06-18,5283.0,,CRM
+ACCT-076,LionGate Holdings,Financial Services,Enterprise,7537.24,20293,United States,OPP-46421,Fatima Al-Rashid,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2023-09-22,2024-01-10,3145.0,,CRM
+ACCT-076,LionGate Holdings,Financial Services,Enterprise,7537.24,20293,United States,OPP-30379,Yuki Nakamura,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2023-09-23,2023-12-16,3820.0,,CRM
+ACCT-032,TerraBloom Services,Business Services,Large,692.19,1922,United States,OPP-38221,Mei Lin Zhang,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2024-08-01,2025-01-15,476.0,,CRM
+ACCT-047,EverGlow Studios,Media & Entertainment,Large,665.06,1095,United States,OPP-54118,Ethan Clarke,Rachel Torres,East,NovaPulse Starter,NovaPulse,550,Won,2023-11-09,2024-03-20,533.0,,CRM
+ACCT-014,HarborView Digital,Software,Small,98.79,96,United States,OPP-23396,Mei Lin Zhang,Brian Nakamura,West,NovaEdge Advanced,NovaEdge,3393,Won,2023-11-29,2024-04-14,3813.0,,CRM
+ACCT-073,IndigoVault Finance,Financial Services,Enterprise,2022.14,5113,United States,OPP-22156,Victor Tang,Michael Chen,East,NovaPulse Enterprise,NovaPulse,5482,Won,2024-07-04,2024-07-20,6284.0,,CRM
+ACCT-050,HighTower Consulting,Business Services,Large,1012.72,3492,Germany,OPP-59797,Mei Lin Zhang,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Won,2024-04-04,2024-07-11,5194.0,,CRM
+ACCT-059,QuantumShift Tech,Technology,Large,1008.06,1238,United States,OPP-22676,Maya Chen,Sarah Mitchell,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2023-09-06,2024-01-07,5459.0,,CRM
+ACCT-042,ZenithMart,Retail,Large,702.72,1831,United States,OPP-57052,James Okafor,Rachel Torres,East,NovaPulse Professional,NovaPulse,4821,Won,2023-08-13,2023-12-16,4465.0,,CRM
+ACCT-046,DawnBreak Pharma,Healthcare,Large,1618.89,3889,United States,OPP-55082,Chloe Bergman,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Won,2024-05-20,2024-07-11,4689.0,,CRM
+ACCT-067,CrossPoint Retail,Retail,Large,1376.8,1165,Belgium,OPP-89131,Derek Johnson,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Won,2024-04-15,2024-09-03,584.0,,CRM
+ACCT-081,QuailRidge Tech,Technology,Small,40.79,142,China,OPP-44671,Finn O'Brien,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Won,2023-08-20,2023-12-17,605.0,,CRM
+ACCT-036,UltraLink Communications,Telecommunications,Enterprise,6395.05,20275,United States,OPP-15695,Victor Tang,Michael Chen,East,NovaPulse Enterprise,NovaPulse,5482,Won,2024-06-03,2024-06-14,4881.0,,CRM
+ACCT-003,BrightPath Medical,Healthcare,Large,647.18,1185,Kenya,OPP-70217,Leila Hassan,David Kim,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2024-05-31,2024-09-16,5944.0,,CRM
+ACCT-062,StoneHarbor Medical,Healthcare,Enterprise,2818.38,6290,United States,OPP-80284,Hannah Lee,Rachel Torres,East,NovaPulse Enterprise,NovaPulse,5482,Won,2023-08-22,2023-12-30,5918.0,,CRM
+ACCT-008,DataStream Analytics,Software,Large,987.39,2253,United States,OPP-26361,Amira Diallo,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Won,2024-08-23,2024-12-01,1251.0,,CRM
+ACCT-037,Vanguard Marketing Group,Marketing & Advertising,Enterprise,2403.58,8801,United States,OPP-59615,Owen McCarthy,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Won,2023-11-07,2024-03-17,1189.0,,CRM
+ACCT-037,Vanguard Marketing Group,Marketing & Advertising,Enterprise,2403.58,8801,United States,OPP-20328,Marcus Webb,David Kim,Central,NovaEdge Lite,NovaEdge,55,Won,2024-09-30,2024-10-02,58.0,,CRM
+ACCT-063,TideWater Retail,Retail,Enterprise,2214.94,5374,United States,OPP-82357,Chloe Bergman,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Won,2024-06-11,2024-11-24,1075.0,,CRM
+ACCT-058,PrimeCell Medical,Healthcare,Enterprise,3922.42,6837,United States,OPP-48427,Owen McCarthy,David Kim,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2023-08-02,2023-12-17,5522.0,,CRM
+ACCT-024,PeakVista Capital,Financial Services,Enterprise,2819.5,7227,United States,OPP-92397,Marcus Webb,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-03-21,2024-04-10,583.0,,CRM
+ACCT-006,CrestLine Retail,Retail,Large,497.11,1588,United States,OPP-91070,Anya Petrov,Brian Nakamura,West,NovaPulse Enterprise,NovaPulse,5482,Won,2024-03-07,2024-08-31,4755.0,,CRM
+ACCT-058,PrimeCell Medical,Healthcare,Enterprise,3922.42,6837,United States,OPP-57400,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Won,2023-07-31,2023-12-13,4891.0,,CRM
+ACCT-029,SkyCrest Telecom,Telecommunications,Small,86.68,187,United States,OPP-85674,Raj Patel,Sarah Mitchell,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2024-08-29,2024-12-24,5520.0,,CRM
+ACCT-005,CoralBay Pharma,Healthcare,Large,326.82,1016,United States,OPP-35203,Suki Tanaka,Michael Chen,East,NovaPulse Enterprise,NovaPulse,5482,Won,2024-01-20,2024-01-29,5095.0,,CRM
+ACCT-024,PeakVista Capital,Financial Services,Enterprise,2819.5,7227,United States,OPP-19116,Derek Johnson,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2024-01-18,2024-04-07,50.0,,CRM
+ACCT-082,RavenCroft Studios,Media & Entertainment,Medium,324.19,978,United States,OPP-16006,Anya Petrov,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2023-12-12,2023-12-16,597.0,,CRM
+ACCT-023,OakBridge Staffing,Professional Services,Large,2059.9,3644,United States,OPP-96673,Grace Adeyemi,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Won,2023-12-17,2024-01-13,481.0,,CRM
+ACCT-012,FreshStart Medical,Healthcare,Small,4.54,9,United States,OPP-39871,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2023-12-03,2024-03-11,54.0,,CRM
+ACCT-043,AlphaCore Technologies,Technology,Enterprise,7708.38,13756,United States,OPP-47930,Andre Moreau,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Won,2024-02-19,2024-02-22,584.0,,CRM
+ACCT-051,IvyBridge Staffing,Professional Services,Large,882.12,2769,United States,OPP-20458,Hannah Lee,Rachel Torres,East,NovaPulse Enterprise,NovaPulse,5482,Won,2024-11-06,2024-11-18,6818.0,,CRM
+ACCT-001,Apex Dynamics,Technology,Large,1100.04,2822,United States,OPP-40512,Finn O'Brien,Michael Chen,East,NovaPulse Enterprise,NovaPulse,5482,Won,2023-11-04,2024-04-22,5724.0,,CRM
+ACCT-010,EliteWave Media,Media & Entertainment,Enterprise,4269.9,6472,United States,OPP-23238,Mei Lin Zhang,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Won,2024-10-25,2024-11-08,4991.0,,CRM
+ACCT-047,EverGlow Studios,Media & Entertainment,Large,665.06,1095,United States,OPP-59823,Nadia Volkov,Rachel Torres,East,NovaPulse Starter,NovaPulse,550,Won,2024-03-21,2024-07-05,516.0,,CRM
+ACCT-078,NovaCrest Workforce,Professional Services,Enterprise,2871.35,9561,United States,OPP-46434,Oliver Dubois,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2024-05-07,2024-09-13,628.0,,CRM
+ACCT-060,RedCedar Software,Software,Enterprise,6354.87,16780,United States,OPP-69429,Oliver Dubois,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Won,2023-12-12,2023-12-27,5266.0,,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-93320,James Okafor,Rachel Torres,East,NovaEdge Advanced,NovaEdge,3393,Won,2024-07-25,2024-08-19,3913.0,,CRM
+ACCT-011,Falcon Software,Software,Large,2714.9,2641,United States,OPP-57819,Marcus Webb,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2023-08-30,2024-01-13,517.0,,CRM
+ACCT-055,MossCreek Retail,Retail,Large,1419.98,4018,United States,OPP-31319,Nadia Volkov,Rachel Torres,East,NovaPulse Professional,NovaPulse,4821,Won,2024-02-15,2024-07-07,4505.0,,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-58520,Liam Porter,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2024-03-17,2024-04-05,3153.0,,CRM
+ACCT-044,BluePeak Marketing,Marketing & Advertising,Large,375.43,1190,United States,OPP-56566,Derek Johnson,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2024-02-05,2024-05-09,48.0,,CRM
+ACCT-052,JadeVault Finance,Financial Services,Medium,355.23,853,United States,OPP-37460,Hannah Lee,Rachel Torres,East,NovaEdge Advanced,NovaEdge,3393,Won,2024-10-21,2024-11-08,3422.0,,CRM
+ACCT-020,MapleCrest Retail,Retail,Enterprise,4968.91,7523,United States,OPP-97841,Yuki Nakamura,Amanda Foster,West,NovaPulse Professional,NovaPulse,4821,Won,2024-04-24,2024-05-12,4733.0,,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-44993,Andre Moreau,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Won,2023-12-09,2024-03-20,522.0,,CRM
+ACCT-061,SkyBridge Marketing,Marketing & Advertising,Small,45.39,100,United States,OPP-99593,Marcus Webb,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-10-11,2024-10-23,528.0,,CRM
+ACCT-022,NorthStar Finance,Financial Services,Large,1102.43,1759,United States,OPP-94939,Owen McCarthy,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-08-30,2025-01-10,626.0,,CRM
+ACCT-061,SkyBridge Marketing,Marketing & Advertising,Small,45.39,100,United States,OPP-19358,Leila Hassan,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Won,2024-11-18,2024-12-04,1133.0,,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-89840,Noah Kim,Amanda Foster,West,NovaPulse Standard,NovaPulse,1096,Won,2023-09-15,2024-01-08,880.0,,CRM
+ACCT-063,TideWater Retail,Retail,Enterprise,2214.94,5374,United States,OPP-93227,Liam Porter,Amanda Foster,West,NovaPulse Standard,NovaPulse,1096,Won,2024-01-24,2024-03-29,935.0,,CRM
+ACCT-078,NovaCrest Workforce,Professional Services,Enterprise,2871.35,9561,United States,OPP-32431,Chloe Bergman,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Won,2024-01-08,2024-03-15,888.0,,CRM
+ACCT-004,ClearView Health,Healthcare,Large,587.34,1356,Philipines,OPP-80010,Tyler Brooks,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-09-20,2024-12-29,540.0,,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-42087,Grace Adeyemi,Amanda Foster,West,NovaPulse Professional,NovaPulse,4821,Won,2023-12-10,2024-04-17,4327.0,,CRM
+ACCT-013,GreenField Tech,Technology,Large,1520.66,1806,United States,OPP-31417,Raj Patel,Sarah Mitchell,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2024-06-10,2024-09-24,5753.0,,CRM
+ACCT-015,IronClad Entertainment,Media & Entertainment,Medium,217.87,551,United States,OPP-70589,Derek Johnson,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2023-10-07,2023-12-09,56.0,,CRM
+ACCT-079,OpticWave Retail,Retail,Large,2261.05,3851,United States,OPP-59735,Andre Moreau,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Won,2024-05-19,2024-05-21,1167.0,,CRM
+ACCT-084,TangleRoot Medical,Healthcare,Large,441.08,1210,United States,OPP-45382,Sofia Martinez,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Won,2024-08-13,2024-09-03,552.0,,CRM
+ACCT-027,RiverStone Imports,Retail,Large,894.33,1635,Italy,OPP-93886,Tyler Brooks,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Won,2025-01-17,2025-01-29,3494.0,,CRM
+ACCT-006,CrestLine Retail,Retail,Large,497.11,1588,United States,OPP-83000,Yuki Nakamura,Amanda Foster,West,NovaPulse Standard,NovaPulse,1096,Won,2023-08-12,2023-12-16,1043.0,,CRM
+ACCT-038,WestBridge Medical,Healthcare,Large,3178.24,4540,United States,OPP-38785,Sofia Martinez,Sarah Mitchell,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2023-08-20,2024-01-04,6282.0,,CRM
+ACCT-022,NorthStar Finance,Financial Services,Large,1102.43,1759,United States,OPP-99733,Leila Hassan,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Won,2023-12-09,2024-03-15,3423.0,,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-52504,Finn O'Brien,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Won,2024-04-12,2024-04-26,4612.0,,CRM
+ACCT-022,NorthStar Finance,Financial Services,Large,1102.43,1759,United States,OPP-17331,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2023-10-25,2024-01-11,54.0,,CRM
+ACCT-022,NorthStar Finance,Financial Services,Large,1102.43,1759,United States,OPP-40021,Priya Nair,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-04-05,2024-04-11,3236.0,,CRM
+ACCT-059,QuantumShift Tech,Technology,Large,1008.06,1238,United States,OPP-14207,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2024-12-13,2025-01-03,66.0,,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-51347,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2024-07-30,2024-08-24,54.0,,CRM
+ACCT-054,LightWave Studios,Media & Entertainment,Medium,349.81,315,United States,OPP-62581,Mei Lin Zhang,Brian Nakamura,West,NovaPulse Enterprise,NovaPulse,5482,Won,2024-09-16,2024-09-28,5527.0,,CRM
+ACCT-031,SummitEdge Marketing,Marketing & Advertising,Enterprise,2952.73,5107,United States,OPP-45093,Fatima Al-Rashid,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Won,2024-03-28,2024-07-09,647.0,,CRM
+ACCT-024,PeakVista Capital,Financial Services,Enterprise,2819.5,7227,United States,OPP-18675,Marcus Webb,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Won,2024-05-07,2024-05-13,1033.0,,CRM
+ACCT-005,CoralBay Pharma,Healthcare,Large,326.82,1016,United States,OPP-37653,Victor Tang,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Won,2023-08-18,2023-12-23,639.0,,CRM
+ACCT-021,MeridianComm,Telecommunications,Enterprise,1825.82,5595,United States,OPP-84341,Liam Porter,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2023-11-14,2024-04-10,3281.0,,CRM
+ACCT-002,BioVantage Labs,Healthcare,Medium,251.41,495,United States,OPP-51245,Hannah Lee,Rachel Torres,East,NovaPulse Professional,NovaPulse,4821,Won,2023-09-22,2023-12-30,3822.0,,CRM
+ACCT-058,PrimeCell Medical,Healthcare,Enterprise,3922.42,6837,United States,OPP-37869,Marcus Webb,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-05-16,2024-08-16,501.0,,CRM
+ACCT-031,SummitEdge Marketing,Marketing & Advertising,Enterprise,2952.73,5107,United States,OPP-95909,Yuki Nakamura,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Won,2024-10-21,2024-10-23,553.0,,CRM
+ACCT-024,PeakVista Capital,Financial Services,Enterprise,2819.5,7227,United States,OPP-75435,Anika Larsson,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-01-21,2024-04-24,3161.0,,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-61856,Marcus Webb,David Kim,Central,NovaEdge Lite,NovaEdge,55,Won,2024-02-01,2024-02-15,54.0,,CRM
+ACCT-026,QuartzPoint Trading,Retail,Large,2520.83,3502,United States,OPP-94259,Finn O'Brien,Michael Chen,East,NovaPulse Enterprise,NovaPulse,5482,Won,2024-06-11,2024-08-24,6205.0,,CRM
+ACCT-011,Falcon Software,Software,Large,2714.9,2641,United States,OPP-70142,Raj Patel,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2024-03-11,2024-04-21,61.0,,CRM
+ACCT-075,KestrelWing Services,Business Services,Enterprise,2041.73,5276,United States,OPP-28726,Tyler Brooks,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Won,2023-11-22,2024-01-03,4375.0,,CRM
+ACCT-004,ClearView Health,Healthcare,Large,587.34,1356,Philipines,OPP-44718,Owen McCarthy,David Kim,Central,NovaEdge Lite,NovaEdge,55,Won,2024-06-30,2024-07-01,53.0,,CRM
+ACCT-028,SilverLine Tech,Technology,Large,1223.72,2497,Norway,OPP-28301,Marcus Webb,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-02-15,2024-02-18,580.0,,CRM
+ACCT-012,FreshStart Medical,Healthcare,Small,4.54,9,United States,OPP-42325,Mei Lin Zhang,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2023-08-13,2024-01-10,437.0,,CRM
+ACCT-066,WillowBrook Staffing,Professional Services,Medium,291.27,586,United States,OPP-83579,Owen McCarthy,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Won,2024-06-07,2024-06-24,1144.0,,CRM
+ACCT-032,TerraBloom Services,Business Services,Large,692.19,1922,United States,OPP-80644,Grace Adeyemi,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2024-09-20,2025-01-12,3772.0,,CRM
+ACCT-036,UltraLink Communications,Telecommunications,Enterprise,6395.05,20275,United States,OPP-44438,Victor Tang,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Won,2024-04-22,2024-07-25,892.0,,CRM
+ACCT-063,TideWater Retail,Retail,Enterprise,2214.94,5374,United States,OPP-86622,Oliver Dubois,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Won,2023-09-23,2023-12-12,1095.0,,CRM
+ACCT-067,CrossPoint Retail,Retail,Large,1376.8,1165,Belgium,OPP-66155,Maya Chen,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Won,2024-01-15,2024-05-05,460.0,,CRM
+ACCT-029,SkyCrest Telecom,Telecommunications,Small,86.68,187,United States,OPP-86484,Derek Johnson,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2023-09-26,2024-01-11,54.0,,CRM
+ACCT-065,VoltEdge Finance,Financial Services,Large,1698.2,3798,United States,OPP-62350,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2023-07-25,2023-12-10,43.0,,CRM
+ACCT-027,RiverStone Imports,Retail,Large,894.33,1635,Italy,OPP-57447,Anika Larsson,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Won,2024-06-13,2024-06-27,563.0,,CRM
+ACCT-058,PrimeCell Medical,Healthcare,Enterprise,3922.42,6837,United States,OPP-38746,Maya Chen,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2024-03-20,2024-04-10,58.0,,CRM
+ACCT-064,UrbanLink Telecom,Telecommunications,Enterprise,1699.85,5108,United States,OPP-28131,Noah Kim,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2023-11-04,2024-04-25,3426.0,,CRM
+ACCT-017,KeyStone Innovations,Technology,Large,1712.68,3194,United States,OPP-76784,Nadia Volkov,Rachel Torres,East,NovaPulse Standard,NovaPulse,1096,Won,2024-09-25,2024-09-28,1076.0,,CRM
+ACCT-051,IvyBridge Staffing,Professional Services,Large,882.12,2769,United States,OPP-74686,Andre Moreau,Michael Chen,East,NovaEdge Lite,NovaEdge,55,Won,2024-03-24,2024-07-13,53.0,,CRM
+ACCT-080,PebbleBrook Retail,Retail,Small,71.12,144,United States,OPP-21915,Suki Tanaka,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Won,2023-11-16,2024-05-02,492.0,,CRM
+ACCT-033,ThunderBay Retail,Retail,Medium,223.8,299,United States,OPP-16175,Mei Lin Zhang,Brian Nakamura,West,NovaPulse Enterprise,NovaPulse,5482,Won,2024-09-05,2024-11-20,5745.0,,CRM
+ACCT-017,KeyStone Innovations,Technology,Large,1712.68,3194,United States,OPP-24371,Suki Tanaka,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Won,2023-09-24,2023-12-24,4905.0,,CRM
+ACCT-067,CrossPoint Retail,Retail,Large,1376.8,1165,Belgium,OPP-30033,Marcus Webb,David Kim,Central,NovaEdge Lite,NovaEdge,55,Won,2024-02-11,2024-02-12,55.0,,CRM
+ACCT-043,AlphaCore Technologies,Technology,Enterprise,7708.38,13756,United States,OPP-92240,Victor Tang,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Won,2024-06-28,2024-07-09,1189.0,,CRM
+ACCT-064,UrbanLink Telecom,Telecommunications,Enterprise,1699.85,5108,United States,OPP-30969,Fatima Al-Rashid,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Won,2024-08-03,2024-11-30,432.0,,CRM
+ACCT-010,EliteWave Media,Media & Entertainment,Enterprise,4269.9,6472,United States,OPP-99192,Oliver Dubois,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Won,2024-05-23,2024-06-04,935.0,,CRM
+ACCT-038,WestBridge Medical,Healthcare,Large,3178.24,4540,United States,OPP-65333,Derek Johnson,Sarah Mitchell,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2024-05-12,2024-05-23,5536.0,,CRM
+ACCT-085,Horizon Marketing,Marketing & Advertising,Large,2173.98,2928,United States,OPP-88172,Raj Patel,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-04-28,2024-05-12,3785.0,,CRM
+ACCT-082,RavenCroft Studios,Media & Entertainment,Medium,324.19,978,United States,OPP-18326,Noah Kim,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Won,2024-01-20,2024-05-16,550.0,,CRM
+ACCT-059,QuantumShift Tech,Technology,Large,1008.06,1238,United States,OPP-60432,Anika Larsson,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Won,2023-11-21,2024-05-02,551.0,,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-60019,Noah Kim,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2024-02-12,2024-02-22,3661.0,,CRM
+ACCT-037,Vanguard Marketing Group,Marketing & Advertising,Enterprise,2403.58,8801,United States,OPP-88104,Raj Patel,Sarah Mitchell,Central,NovaPulse Standard,NovaPulse,1096,Won,2024-10-19,2024-10-22,1200.0,,CRM
+ACCT-009,EaglePoint Commerce,Retail,Large,718.62,2448,United States,OPP-71348,Sofia Martinez,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Won,2024-08-10,2024-11-09,672.0,,CRM
+ACCT-056,NetPulse Technologies,Technology,Enterprise,2938.67,8775,Panama,OPP-79352,Derek Johnson,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-09-23,2025-01-01,3131.0,,CRM
+ACCT-060,RedCedar Software,Software,Enterprise,6354.87,16780,United States,OPP-42953,Oliver Dubois,Brian Nakamura,West,NovaPulse Enterprise,NovaPulse,5482,Won,2024-03-11,2024-05-07,5698.0,,CRM
+ACCT-002,BioVantage Labs,Healthcare,Medium,251.41,495,United States,OPP-82512,James Okafor,Rachel Torres,East,NovaPulse Standard,NovaPulse,1096,Won,2024-02-10,2024-05-10,1036.0,,CRM
+ACCT-074,JuniperRock Capital,Financial Services,Medium,646.1,883,United States,OPP-11504,Amira Diallo,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Won,2023-11-19,2024-04-17,4689.0,,CRM
+ACCT-018,LakeView Software,Software,Enterprise,4618.0,10083,United States,OPP-99166,Raj Patel,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Won,2024-01-11,2024-03-21,541.0,,CRM
+ACCT-018,LakeView Software,Software,Enterprise,4618.0,10083,United States,OPP-25014,Leila Hassan,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2023-11-04,2024-04-14,672.0,,CRM
+ACCT-004,ClearView Health,Healthcare,Large,587.34,1356,Philipines,OPP-99353,Owen McCarthy,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-01-11,2024-05-05,600.0,,CRM
+ACCT-061,SkyBridge Marketing,Marketing & Advertising,Small,45.39,100,United States,OPP-80381,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Won,2024-04-01,2024-08-01,4432.0,,CRM
+ACCT-075,KestrelWing Services,Business Services,Enterprise,2041.73,5276,United States,OPP-44973,Maya Chen,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2023-12-19,2024-04-18,52.0,,CRM
+ACCT-056,NetPulse Technologies,Technology,Enterprise,2938.67,8775,Panama,OPP-94012,Tyler Brooks,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Won,2024-05-12,2024-09-02,1102.0,,CRM
+ACCT-074,JuniperRock Capital,Financial Services,Medium,646.1,883,United States,OPP-54587,Nadia Volkov,Rachel Torres,East,NovaPulse Starter,NovaPulse,550,Won,2023-09-26,2023-12-14,540.0,,CRM
+ACCT-063,TideWater Retail,Retail,Enterprise,2214.94,5374,United States,OPP-24621,Noah Kim,Amanda Foster,West,NovaPulse Professional,NovaPulse,4821,Won,2024-02-12,2024-02-21,4869.0,,CRM
+ACCT-061,SkyBridge Marketing,Marketing & Advertising,Small,45.39,100,United States,OPP-48469,Marcus Webb,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-02-04,2024-02-15,538.0,,CRM
+ACCT-011,Falcon Software,Software,Large,2714.9,2641,United States,OPP-66985,Derek Johnson,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-06-14,2024-06-25,3352.0,,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-30730,Leila Hassan,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-09-05,2024-12-03,637.0,,CRM
+ACCT-003,BrightPath Medical,Healthcare,Large,647.18,1185,Kenya,OPP-69470,Owen McCarthy,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Won,2024-06-10,2024-09-07,1071.0,,CRM
+ACCT-056,NetPulse Technologies,Technology,Enterprise,2938.67,8775,Panama,OPP-10425,Owen McCarthy,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-04-28,2024-08-26,2683.0,,CRM
+ACCT-012,FreshStart Medical,Healthcare,Small,4.54,9,United States,OPP-44522,Noah Kim,Amanda Foster,West,NovaPulse Professional,NovaPulse,4821,Won,2024-10-16,2024-10-29,4580.0,,CRM
+ACCT-014,HarborView Digital,Software,Small,98.79,96,United States,OPP-75612,Grace Adeyemi,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Won,2023-11-23,2023-12-14,47.0,,CRM
+ACCT-068,DuskValley Trading,Retail,Medium,167.89,493,Romania,OPP-33416,Amira Diallo,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Won,2023-11-22,2023-12-03,4711.0,,CRM
+ACCT-042,ZenithMart,Retail,Large,702.72,1831,United States,OPP-76542,Nadia Volkov,Rachel Torres,East,NovaEdge Lite,NovaEdge,55,Won,2023-11-23,2023-12-03,50.0,,CRM
+ACCT-009,EaglePoint Commerce,Retail,Large,718.62,2448,United States,OPP-23947,Raj Patel,Sarah Mitchell,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2024-04-21,2024-07-07,4749.0,,CRM
+ACCT-003,BrightPath Medical,Healthcare,Large,647.18,1185,Kenya,OPP-91959,Owen McCarthy,David Kim,Central,NovaEdge Lite,NovaEdge,55,Won,2024-05-30,2024-06-10,54.0,,CRM
+ACCT-060,RedCedar Software,Software,Enterprise,6354.87,16780,United States,OPP-49117,Liam Porter,Amanda Foster,West,NovaPulse Enterprise,NovaPulse,5482,Won,2024-01-24,2024-01-27,4761.0,,CRM
+ACCT-011,Falcon Software,Software,Large,2714.9,2641,United States,OPP-93748,Priya Nair,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-05-26,2024-07-12,3458.0,,CRM
+ACCT-067,CrossPoint Retail,Retail,Large,1376.8,1165,Belgium,OPP-76540,Marcus Webb,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-02-10,2024-05-19,628.0,,CRM
+ACCT-044,BluePeak Marketing,Marketing & Advertising,Large,375.43,1190,United States,OPP-89818,Tyler Brooks,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-08-19,2024-12-11,3830.0,,CRM
+ACCT-011,Falcon Software,Software,Large,2714.9,2641,United States,OPP-36071,Owen McCarthy,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Won,2023-08-25,2024-01-04,3269.0,,CRM
+ACCT-049,GoldLeaf Services,Business Services,Large,405.59,1179,Brazil,OPP-30032,Grace Adeyemi,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Won,2024-11-13,2024-11-29,51.0,,CRM
+ACCT-025,PineRidge Global,Retail,Enterprise,5158.71,17479,Japan,OPP-59009,Hannah Lee,Rachel Torres,East,NovaEdge Advanced,NovaEdge,3393,Won,2024-01-06,2024-01-15,2940.0,,CRM
+ACCT-028,SilverLine Tech,Technology,Large,1223.72,2497,Norway,OPP-31174,Marcus Webb,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Won,2024-04-11,2024-05-06,1040.0,,CRM
+ACCT-005,CoralBay Pharma,Healthcare,Large,326.82,1016,United States,OPP-80697,Suki Tanaka,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Won,2024-09-06,2024-12-03,5186.0,,CRM
+ACCT-001,Apex Dynamics,Technology,Large,1100.04,2822,United States,OPP-79514,Hannah Lee,Rachel Torres,East,NovaPulse Enterprise,NovaPulse,5482,Won,2024-10-01,2024-10-04,5331.0,,CRM
+ACCT-014,HarborView Digital,Software,Small,98.79,96,United States,OPP-10074,Oliver Dubois,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Won,2023-12-19,2024-01-11,4955.0,,CRM
+ACCT-003,BrightPath Medical,Healthcare,Large,647.18,1185,Kenya,OPP-88504,Priya Nair,David Kim,Central,NovaEdge Lite,NovaEdge,55,Won,2024-08-30,2024-09-12,72.0,,CRM
+ACCT-032,TerraBloom Services,Business Services,Large,692.19,1922,United States,OPP-52487,Grace Adeyemi,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Won,2024-09-21,2024-10-05,63.0,,CRM
+ACCT-023,OakBridge Staffing,Professional Services,Large,2059.9,3644,United States,OPP-74042,Daniel Santos,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2023-10-31,2024-05-09,532.0,,CRM
+ACCT-037,Vanguard Marketing Group,Marketing & Advertising,Enterprise,2403.58,8801,United States,OPP-12552,Tyler Brooks,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Won,2024-02-14,2024-02-26,4916.0,,CRM
+ACCT-062,StoneHarbor Medical,Healthcare,Enterprise,2818.38,6290,United States,OPP-24662,Ethan Clarke,Rachel Torres,East,NovaEdge Lite,NovaEdge,55,Won,2024-08-19,2024-12-29,54.0,,CRM
+ACCT-025,PineRidge Global,Retail,Enterprise,5158.71,17479,Japan,OPP-57576,Carlos Rivera,Rachel Torres,East,NovaPulse Enterprise,NovaPulse,5482,Won,2024-05-24,2024-08-08,5710.0,,CRM
+ACCT-052,JadeVault Finance,Financial Services,Medium,355.23,853,United States,OPP-50306,Ethan Clarke,Rachel Torres,East,NovaPulse Starter,NovaPulse,550,Won,2023-12-28,2024-05-17,542.0,,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-41385,Chloe Bergman,Brian Nakamura,West,NovaEdge Lite,NovaEdge,55,Won,2024-04-19,2024-08-20,52.0,,CRM
+ACCT-059,QuantumShift Tech,Technology,Large,1008.06,1238,United States,OPP-17592,Derek Johnson,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Won,2024-09-06,2024-12-03,487.0,,CRM
+ACCT-081,QuailRidge Tech,Technology,Small,40.79,142,China,OPP-41571,Andre Moreau,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Won,2024-02-17,2024-02-19,560.0,,CRM
+ACCT-037,Vanguard Marketing Group,Marketing & Advertising,Enterprise,2403.58,8801,United States,OPP-84364,Leila Hassan,David Kim,Central,NovaEdge Lite,NovaEdge,55,Won,2023-08-11,2024-01-03,48.0,,CRM
+ACCT-015,IronClad Entertainment,Media & Entertainment,Medium,217.87,551,United States,OPP-20322,Marcus Webb,David Kim,Central,NovaEdge Lite,NovaEdge,55,Won,2024-02-04,2024-02-14,68.0,,CRM
+ACCT-023,OakBridge Staffing,Professional Services,Large,2059.9,3644,United States,OPP-21226,Chloe Bergman,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Won,2024-09-09,2024-12-31,4709.0,,CRM
+ACCT-028,SilverLine Tech,Technology,Large,1223.72,2497,Norway,OPP-73699,Owen McCarthy,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Won,2023-12-19,2023-12-24,1247.0,,CRM
+ACCT-075,KestrelWing Services,Business Services,Enterprise,2041.73,5276,United States,OPP-19071,Tyler Brooks,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Won,2024-06-02,2024-06-13,4631.0,,CRM
+ACCT-010,EliteWave Media,Media & Entertainment,Enterprise,4269.9,6472,United States,OPP-79822,Liam Porter,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2024-10-16,2024-10-22,3744.0,,CRM
+ACCT-026,QuartzPoint Trading,Retail,Large,2520.83,3502,United States,OPP-26483,Finn O'Brien,Michael Chen,East,NovaEdge Advanced,NovaEdge,3393,Won,2024-10-09,2024-10-22,3024.0,,CRM
+ACCT-076,LionGate Holdings,Financial Services,Enterprise,7537.24,20293,United States,OPP-26828,Yuki Nakamura,Amanda Foster,West,NovaPulse Professional,NovaPulse,4821,Won,2024-08-12,2024-09-03,4592.0,,CRM
+ACCT-027,RiverStone Imports,Retail,Large,894.33,1635,Italy,OPP-96474,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Won,2024-12-14,2024-12-18,4888.0,,CRM
+ACCT-023,OakBridge Staffing,Professional Services,Large,2059.9,3644,United States,OPP-72296,Anya Petrov,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2023-09-10,2024-01-06,633.0,,CRM
+ACCT-085,Horizon Marketing,Marketing & Advertising,Large,2173.98,2928,United States,OPP-82063,Derek Johnson,Sarah Mitchell,Central,NovaPulse Standard,NovaPulse,1096,Won,2024-08-09,2024-11-23,1215.0,,CRM
+ACCT-015,IronClad Entertainment,Media & Entertainment,Medium,217.87,551,United States,OPP-31643,Raj Patel,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Won,2024-05-14,2024-07-02,513.0,,CRM
+ACCT-043,AlphaCore Technologies,Technology,Enterprise,7708.38,13756,United States,OPP-44741,Daniel Santos,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Won,2024-07-01,2024-07-29,6069.0,,CRM
+ACCT-045,CedarPoint Medical,Healthcare,Enterprise,2741.37,9226,United States,OPP-79163,Yuki Nakamura,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Won,2024-08-08,2024-08-10,548.0,,CRM
+ACCT-010,EliteWave Media,Media & Entertainment,Enterprise,4269.9,6472,United States,OPP-89507,Yuki Nakamura,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2024-01-18,2024-04-21,2882.0,,CRM
+ACCT-003,BrightPath Medical,Healthcare,Large,647.18,1185,Kenya,OPP-65461,Tyler Brooks,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-01-17,2024-01-20,532.0,,CRM
+ACCT-076,LionGate Holdings,Financial Services,Enterprise,7537.24,20293,United States,OPP-37760,Oliver Dubois,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Won,2024-12-28,2025-01-12,1111.0,,CRM
+ACCT-024,PeakVista Capital,Financial Services,Enterprise,2819.5,7227,United States,OPP-80686,Derek Johnson,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Won,2024-06-30,2024-07-13,502.0,,CRM
+ACCT-061,SkyBridge Marketing,Marketing & Advertising,Small,45.39,100,United States,OPP-36365,Priya Nair,David Kim,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2024-05-13,2024-08-06,5217.0,,CRM
+ACCT-043,AlphaCore Technologies,Technology,Enterprise,7708.38,13756,United States,OPP-50857,Noah Kim,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Won,2023-12-07,2024-04-26,642.0,,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-62296,Noah Kim,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2024-05-30,2024-08-13,3276.0,,CRM
+ACCT-066,WillowBrook Staffing,Professional Services,Medium,291.27,586,United States,OPP-98039,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2024-11-01,2024-11-02,50.0,,CRM
+ACCT-055,MossCreek Retail,Retail,Large,1419.98,4018,United States,OPP-95180,Victor Tang,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Won,2024-07-13,2024-09-16,1176.0,,CRM
+ACCT-074,JuniperRock Capital,Financial Services,Medium,646.1,883,United States,OPP-58944,Ethan Clarke,Rachel Torres,East,NovaPulse Standard,NovaPulse,1096,Won,2023-06-26,2023-12-16,1014.0,,CRM
+ACCT-019,LunarEdge Marketing,Marketing & Advertising,Large,1197.44,2570,United States,OPP-67422,Suki Tanaka,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Won,2024-01-15,2024-07-07,572.0,,CRM
+ACCT-069,EchoField Marketing,Marketing & Advertising,Large,894.37,1593,Poland,OPP-77839,Oliver Dubois,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Won,2023-08-26,2023-12-12,4719.0,,CRM
+ACCT-011,Falcon Software,Software,Large,2714.9,2641,United States,OPP-69177,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Won,2024-11-04,2024-11-05,4733.0,,CRM
+ACCT-009,EaglePoint Commerce,Retail,Large,718.62,2448,United States,OPP-25860,Marcus Webb,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-11-09,2024-11-11,479.0,,CRM
+ACCT-078,NovaCrest Workforce,Professional Services,Enterprise,2871.35,9561,United States,OPP-42493,Fatima Al-Rashid,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2024-02-12,2024-02-24,3242.0,,CRM
+ACCT-077,MoonRise Entertainment,Media & Entertainment,Enterprise,3838.39,8274,United States,OPP-39451,Suki Tanaka,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Won,2024-06-20,2024-07-01,494.0,,CRM
+ACCT-057,OmniReach Telecom,Telecommunications,Large,1188.42,3015,United States,OPP-18392,Chloe Bergman,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Won,2023-12-02,2023-12-30,1025.0,,CRM
+ACCT-028,SilverLine Tech,Technology,Large,1223.72,2497,Norway,OPP-54313,Derek Johnson,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-07-11,2025-01-05,3063.0,,CRM
+ACCT-075,KestrelWing Services,Business Services,Enterprise,2041.73,5276,United States,OPP-12757,Leila Hassan,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-05-06,2024-09-24,587.0,,CRM
+ACCT-036,UltraLink Communications,Telecommunications,Enterprise,6395.05,20275,United States,OPP-87110,James Okafor,Rachel Torres,East,NovaEdge Lite,NovaEdge,55,Won,2024-12-22,2025-01-21,58.0,,CRM
+ACCT-004,ClearView Health,Healthcare,Large,587.34,1356,Philipines,OPP-82603,Tyler Brooks,David Kim,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2023-12-10,2023-12-16,4887.0,,CRM
+ACCT-005,CoralBay Pharma,Healthcare,Large,326.82,1016,United States,OPP-40161,Ethan Clarke,Rachel Torres,East,NovaEdge Lite,NovaEdge,55,Won,2023-08-27,2023-12-06,56.0,,CRM
+ACCT-064,UrbanLink Telecom,Telecommunications,Enterprise,1699.85,5108,United States,OPP-87128,Oliver Dubois,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2024-04-10,2024-08-20,523.0,,CRM
+ACCT-015,IronClad Entertainment,Media & Entertainment,Medium,217.87,551,United States,OPP-38864,Owen McCarthy,David Kim,Central,NovaEdge Lite,NovaEdge,55,Won,2023-07-21,2024-01-07,49.0,,CRM
+ACCT-004,ClearView Health,Healthcare,Large,587.34,1356,Philipines,OPP-10942,Derek Johnson,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-09-20,2024-10-02,3681.0,,CRM
+ACCT-085,Horizon Marketing,Marketing & Advertising,Large,2173.98,2928,United States,OPP-19305,Owen McCarthy,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-06-09,2024-08-17,3255.0,,CRM
+ACCT-030,SolarWind Finance,Financial Services,Small,52.5,165,United States,OPP-92719,Oliver Dubois,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Won,2024-12-29,2025-01-28,1168.0,,CRM
+ACCT-027,RiverStone Imports,Retail,Large,894.33,1635,Italy,OPP-17716,Leila Hassan,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-02-14,2024-02-15,554.0,,CRM
+ACCT-013,GreenField Tech,Technology,Large,1520.66,1806,United States,OPP-40007,Owen McCarthy,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Won,2023-07-08,2023-12-20,3725.0,,CRM
+ACCT-037,Vanguard Marketing Group,Marketing & Advertising,Enterprise,2403.58,8801,United States,OPP-18834,Marcus Webb,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2023-09-22,2023-12-03,504.0,,CRM
+ACCT-011,Falcon Software,Software,Large,2714.9,2641,United States,OPP-14117,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Won,2024-10-22,2024-11-01,4435.0,,CRM
+ACCT-084,TangleRoot Medical,Healthcare,Large,441.08,1210,United States,OPP-53309,Leila Hassan,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Won,2023-06-17,2023-12-05,1026.0,,CRM
+ACCT-005,CoralBay Pharma,Healthcare,Large,326.82,1016,United States,OPP-19287,James Okafor,Rachel Torres,East,NovaPulse Enterprise,NovaPulse,5482,Won,2024-05-06,2024-05-14,6229.0,,CRM
+ACCT-021,MeridianComm,Telecommunications,Enterprise,1825.82,5595,United States,OPP-77391,Noah Kim,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Won,2024-05-27,2024-06-06,583.0,,CRM
+ACCT-036,UltraLink Communications,Telecommunications,Enterprise,6395.05,20275,United States,OPP-41195,Hannah Lee,Rachel Torres,East,NovaPulse Standard,NovaPulse,1096,Won,2024-01-04,2024-01-08,1026.0,,CRM
+ACCT-060,RedCedar Software,Software,Enterprise,6354.87,16780,United States,OPP-46500,Noah Kim,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Won,2023-09-13,2023-12-21,55.0,,CRM
+ACCT-062,StoneHarbor Medical,Healthcare,Enterprise,2818.38,6290,United States,OPP-97684,Suki Tanaka,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Won,2023-12-24,2024-01-07,4064.0,,CRM
+ACCT-020,MapleCrest Retail,Retail,Enterprise,4968.91,7523,United States,OPP-73624,Noah Kim,Amanda Foster,West,NovaPulse Standard,NovaPulse,1096,Won,2024-02-25,2024-04-29,1273.0,,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-38080,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2024-02-08,2024-05-14,58.0,,CRM
+ACCT-054,LightWave Studios,Media & Entertainment,Medium,349.81,315,United States,OPP-80678,Yuki Nakamura,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Won,2023-08-05,2023-12-23,54.0,,CRM
+ACCT-003,BrightPath Medical,Healthcare,Large,647.18,1185,Kenya,OPP-27342,Marcus Webb,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Won,2024-10-28,2024-10-29,1243.0,,CRM
+ACCT-044,BluePeak Marketing,Marketing & Advertising,Large,375.43,1190,United States,OPP-84847,Anika Larsson,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2023-12-02,2024-04-26,50.0,,CRM
+ACCT-073,IndigoVault Finance,Financial Services,Enterprise,2022.14,5113,United States,OPP-85525,Nadia Volkov,Rachel Torres,East,NovaPulse Professional,NovaPulse,4821,Won,2024-04-04,2024-04-22,5081.0,,CRM
+ACCT-081,QuailRidge Tech,Technology,Small,40.79,142,China,OPP-71953,Suki Tanaka,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Won,2023-11-30,2024-04-08,1161.0,,CRM
+ACCT-003,BrightPath Medical,Healthcare,Large,647.18,1185,Kenya,OPP-41850,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2023-08-19,2023-12-12,50.0,,CRM
+ACCT-023,OakBridge Staffing,Professional Services,Large,2059.9,3644,United States,OPP-71993,Oliver Dubois,Brian Nakamura,West,NovaEdge Lite,NovaEdge,55,Won,2024-05-03,2024-05-10,52.0,,CRM
+ACCT-030,SolarWind Finance,Financial Services,Small,52.5,165,United States,OPP-63354,Grace Adeyemi,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2023-12-20,2023-12-28,3386.0,,CRM
+ACCT-027,RiverStone Imports,Retail,Large,894.33,1635,Italy,OPP-34957,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Won,2023-11-22,2023-12-14,3763.0,,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-22363,Amira Diallo,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Won,2023-12-13,2024-03-29,4624.0,,CRM
+ACCT-009,EaglePoint Commerce,Retail,Large,718.62,2448,United States,OPP-22704,Marcus Webb,David Kim,Central,NovaEdge Lite,NovaEdge,55,Won,2024-05-31,2024-06-14,53.0,,CRM
+ACCT-059,QuantumShift Tech,Technology,Large,1008.06,1238,United States,OPP-96374,Leila Hassan,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-03-20,2024-04-14,616.0,,CRM
+ACCT-003,BrightPath Medical,Healthcare,Large,647.18,1185,Kenya,OPP-66498,Tyler Brooks,David Kim,Central,NovaEdge Lite,NovaEdge,55,Won,2025-01-25,2025-01-28,67.0,,CRM
+ACCT-017,KeyStone Innovations,Technology,Large,1712.68,3194,United States,OPP-56438,Nadia Volkov,Rachel Torres,East,NovaPulse Starter,NovaPulse,550,Won,2023-12-10,2023-12-14,542.0,,CRM
+ACCT-012,FreshStart Medical,Healthcare,Small,4.54,9,United States,OPP-65519,Priya Nair,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Won,2024-09-25,2025-01-08,4578.0,,CRM
+ACCT-063,TideWater Retail,Retail,Enterprise,2214.94,5374,United States,OPP-63883,Oliver Dubois,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2024-09-07,2024-12-18,526.0,,CRM
+ACCT-037,Vanguard Marketing Group,Marketing & Advertising,Enterprise,2403.58,8801,United States,OPP-71213,Leila Hassan,David Kim,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2024-07-15,2024-08-05,5671.0,,CRM
+ACCT-076,LionGate Holdings,Financial Services,Enterprise,7537.24,20293,United States,OPP-17100,Fatima Al-Rashid,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Won,2024-01-11,2024-05-03,501.0,,CRM
+ACCT-064,UrbanLink Telecom,Telecommunications,Enterprise,1699.85,5108,United States,OPP-98259,Liam Porter,Amanda Foster,West,NovaPulse Standard,NovaPulse,1096,Won,2024-04-12,2024-08-26,1024.0,,CRM
+ACCT-010,EliteWave Media,Media & Entertainment,Enterprise,4269.9,6472,United States,OPP-95649,Anya Petrov,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2023-12-28,2024-05-09,568.0,,CRM
+ACCT-025,PineRidge Global,Retail,Enterprise,5158.71,17479,Japan,OPP-94696,Carlos Rivera,Rachel Torres,East,NovaEdge Advanced,NovaEdge,3393,Won,2024-09-20,2024-09-28,3786.0,,CRM
+ACCT-078,NovaCrest Workforce,Professional Services,Enterprise,2871.35,9561,United States,OPP-22899,Oliver Dubois,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2024-03-15,2024-03-29,549.0,,CRM
+ACCT-013,GreenField Tech,Technology,Large,1520.66,1806,United States,OPP-17944,Marcus Webb,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-02-10,2024-02-22,657.0,,CRM
+ACCT-068,DuskValley Trading,Retail,Medium,167.89,493,Romania,OPP-62772,Ethan Clarke,Rachel Torres,East,NovaPulse Standard,NovaPulse,1096,Won,2024-01-31,2024-04-21,1145.0,,CRM
+ACCT-082,RavenCroft Studios,Media & Entertainment,Medium,324.19,978,United States,OPP-54473,Oliver Dubois,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Won,2024-05-26,2024-09-18,1043.0,,CRM
+ACCT-062,StoneHarbor Medical,Healthcare,Enterprise,2818.38,6290,United States,OPP-24322,Finn O'Brien,Michael Chen,East,NovaEdge Advanced,NovaEdge,3393,Won,2023-11-11,2024-04-26,2981.0,,CRM
+ACCT-040,XenonGrid Retail,Retail,Large,1388.67,3583,United States,OPP-42591,Oliver Dubois,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2023-12-05,2024-04-05,567.0,,CRM
+ACCT-011,Falcon Software,Software,Large,2714.9,2641,United States,OPP-35112,Maya Chen,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Won,2023-12-06,2024-04-25,522.0,,CRM
+ACCT-071,GraniteShore Retail,Retail,Medium,332.43,799,United States,OPP-34931,Marcus Webb,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2024-06-11,2024-06-21,617.0,,CRM
+ACCT-045,CedarPoint Medical,Healthcare,Enterprise,2741.37,9226,United States,OPP-80292,Grace Adeyemi,Amanda Foster,West,NovaPulse Ultimate,NovaPulse,26768,Won,2024-02-21,2024-05-02,27385.0,,CRM
+ACCT-018,LakeView Software,Software,Enterprise,4618.0,10083,United States,OPP-68800,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Won,2023-07-29,2024-01-11,4511.0,,CRM
+ACCT-028,SilverLine Tech,Technology,Large,1223.72,2497,Norway,OPP-28373,Maya Chen,Sarah Mitchell,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2023-12-10,2024-04-22,6023.0,,CRM
+ACCT-080,PebbleBrook Retail,Retail,Small,71.12,144,United States,OPP-65296,Nadia Volkov,Rachel Torres,East,NovaPulse Starter,NovaPulse,550,Won,2024-01-24,2024-04-01,491.0,,CRM
+ACCT-065,VoltEdge Finance,Financial Services,Large,1698.2,3798,United States,OPP-34050,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2024-01-14,2024-01-15,60.0,,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-46509,Daniel Santos,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Won,2024-01-15,2024-04-25,1214.0,,CRM
+ACCT-063,TideWater Retail,Retail,Enterprise,2214.94,5374,United States,OPP-70637,Anya Petrov,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2024-03-01,2024-03-24,635.0,,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-42742,Ethan Clarke,Rachel Torres,East,NovaPulse Starter,NovaPulse,550,Won,2024-08-29,2025-01-12,644.0,,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-19880,Tyler Brooks,David Kim,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2024-05-14,2024-09-06,6193.0,,CRM
+ACCT-024,PeakVista Capital,Financial Services,Enterprise,2819.5,7227,United States,OPP-68082,Priya Nair,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Won,2024-01-15,2024-01-28,949.0,,CRM
+ACCT-011,Falcon Software,Software,Large,2714.9,2641,United States,OPP-82132,Tyler Brooks,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2023-10-06,2024-04-12,565.0,,CRM
+ACCT-049,GoldLeaf Services,Business Services,Large,405.59,1179,Brazil,OPP-22833,Yuki Nakamura,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Won,2024-01-01,2024-04-14,572.0,,CRM
+ACCT-004,ClearView Health,Healthcare,Large,587.34,1356,Philipines,OPP-16630,Maya Chen,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2024-03-21,2024-05-14,63.0,,CRM
+ACCT-025,PineRidge Global,Retail,Enterprise,5158.71,17479,Japan,OPP-95477,Finn O'Brien,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Won,2024-08-26,2025-01-24,547.0,,CRM
+ACCT-078,NovaCrest Workforce,Professional Services,Enterprise,2871.35,9561,United States,OPP-80855,Yuki Nakamura,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Won,2023-11-25,2024-03-01,595.0,,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-11934,Maya Chen,Sarah Mitchell,Central,NovaPulse Standard,NovaPulse,1096,Won,2023-11-21,2023-12-06,999.0,,CRM
+ACCT-078,NovaCrest Workforce,Professional Services,Enterprise,2871.35,9561,United States,OPP-22224,Yuki Nakamura,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Won,2024-01-06,2024-05-02,58.0,,CRM
+ACCT-026,QuartzPoint Trading,Retail,Large,2520.83,3502,United States,OPP-40982,Nadia Volkov,Rachel Torres,East,NovaPulse Professional,NovaPulse,4821,Won,2024-07-11,2024-12-25,4639.0,,CRM
+ACCT-006,CrestLine Retail,Retail,Large,497.11,1588,United States,OPP-31798,Oliver Dubois,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Won,2024-05-03,2024-09-13,4966.0,,CRM
+ACCT-008,DataStream Analytics,Software,Large,987.39,2253,United States,OPP-63269,James Okafor,Rachel Torres,East,NovaEdge Lite,NovaEdge,55,Won,2023-11-29,2024-05-19,53.0,,CRM
+ACCT-029,SkyCrest Telecom,Telecommunications,Small,86.68,187,United States,OPP-73653,Owen McCarthy,David Kim,Central,NovaPulse Enterprise,NovaPulse,5482,Won,2024-01-27,2024-02-04,4955.0,,CRM
+ACCT-044,BluePeak Marketing,Marketing & Advertising,Large,375.43,1190,United States,OPP-73092,Maya Chen,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2024-02-29,2024-04-19,52.0,,CRM
+ACCT-032,TerraBloom Services,Business Services,Large,692.19,1922,United States,OPP-38016,Yuki Nakamura,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Won,2024-05-20,2024-05-21,50.0,,CRM
+ACCT-015,IronClad Entertainment,Media & Entertainment,Medium,217.87,551,United States,OPP-62565,Raj Patel,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-01-15,2024-01-27,3343.0,,CRM
+ACCT-024,PeakVista Capital,Financial Services,Enterprise,2819.5,7227,United States,OPP-17685,Leila Hassan,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Won,2024-05-21,2024-09-14,1157.0,,CRM
+ACCT-043,AlphaCore Technologies,Technology,Enterprise,7708.38,13756,United States,OPP-31579,Andre Moreau,Michael Chen,East,NovaPulse Enterprise,NovaPulse,5482,Won,2024-02-28,2024-08-05,5747.0,,CRM
+ACCT-002,BioVantage Labs,Healthcare,Medium,251.41,495,United States,OPP-59672,Nadia Volkov,Rachel Torres,East,NovaPulse Professional,NovaPulse,4821,Won,2023-07-21,2023-12-09,4570.0,,CRM
+ACCT-034,TitanForge Services,Business Services,Large,792.46,1299,United States,OPP-10282,Daniel Santos,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2024-08-05,2024-12-03,454.0,,CRM
+ACCT-056,NetPulse Technologies,Technology,Enterprise,2938.67,8775,Panama,OPP-61173,Maya Chen,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2024-06-10,2024-06-23,59.0,,CRM
+ACCT-061,SkyBridge Marketing,Marketing & Advertising,Small,45.39,100,United States,OPP-44760,Raj Patel,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-06-25,2024-07-04,3025.0,,CRM
+ACCT-038,WestBridge Medical,Healthcare,Large,3178.24,4540,United States,OPP-69638,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2023-12-21,2024-01-04,47.0,,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-47388,Noah Kim,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Won,2024-06-18,2024-09-14,65.0,,CRM
+ACCT-036,UltraLink Communications,Telecommunications,Enterprise,6395.05,20275,United States,OPP-65444,Suki Tanaka,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Won,2024-03-21,2024-03-31,1093.0,,CRM
+ACCT-047,EverGlow Studios,Media & Entertainment,Large,665.06,1095,United States,OPP-82845,Ethan Clarke,Rachel Torres,East,NovaEdge Lite,NovaEdge,55,Won,2024-05-10,2024-09-06,55.0,,CRM
+ACCT-065,VoltEdge Finance,Financial Services,Large,1698.2,3798,United States,OPP-96752,Tyler Brooks,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-09-20,2024-10-01,3250.0,,CRM
+ACCT-085,Horizon Marketing,Marketing & Advertising,Large,2173.98,2928,United States,OPP-73788,Raj Patel,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-01-29,2024-02-10,3785.0,,CRM
+ACCT-085,Horizon Marketing,Marketing & Advertising,Large,2173.98,2928,United States,OPP-30289,Owen McCarthy,David Kim,Central,NovaPulse Starter,NovaPulse,550,Won,2023-12-28,2024-05-10,491.0,,CRM
+ACCT-043,AlphaCore Technologies,Technology,Enterprise,7708.38,13756,United States,OPP-34890,Anya Petrov,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Won,2024-12-01,2024-12-24,643.0,,CRM
+ACCT-085,Horizon Marketing,Marketing & Advertising,Large,2173.98,2928,United States,OPP-48890,Anika Larsson,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Won,2024-10-08,2025-01-28,523.0,,CRM
+ACCT-006,CrestLine Retail,Retail,Large,497.11,1588,United States,OPP-38534,Noah Kim,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Won,2024-05-05,2024-05-20,51.0,,CRM
+ACCT-059,QuantumShift Tech,Technology,Large,1008.06,1238,United States,OPP-17665,Raj Patel,Sarah Mitchell,Central,NovaPulse Standard,NovaPulse,1096,Won,2023-12-16,2024-04-25,1184.0,,CRM
+ACCT-038,WestBridge Medical,Healthcare,Large,3178.24,4540,United States,OPP-85914,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Won,2024-08-15,2024-08-29,61.0,,CRM
+ACCT-006,CrestLine Retail,Retail,Large,497.11,1588,United States,OPP-81066,Liam Porter,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Won,2024-08-27,2025-01-28,3302.0,,CRM
+ACCT-024,PeakVista Capital,Financial Services,Enterprise,2819.5,7227,United States,OPP-17989,Raj Patel,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Won,2024-11-18,2024-12-13,2968.0,,CRM
+ACCT-057,OmniReach Telecom,Telecommunications,Large,1188.42,3015,United States,OPP-51104,Chloe Bergman,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Won,2024-01-22,2024-01-24,1109.0,,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-17492,Noah Kim,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Won,2024-04-28,2024-05-16,53.0,,CRM
+ACCT-066,WillowBrook Staffing,Professional Services,Medium,291.27,586,United States,OPP-16572,Maya Chen,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Won,2023-07-19,2024-01-04,3647.0,,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-86569,Fatima Al-Rashid,Amanda Foster,West,NovaPulse Ultimate,NovaPulse,26768,Won,2024-04-04,2024-08-10,25791.0,,CRM
+ACCT-008,DataStream Analytics,Software,Large,987.39,2253,United States,OPP-72493,James Okafor,Rachel Torres,East,NovaEdge Advanced,NovaEdge,3393,Lost,2024-04-12,2024-05-05,0.0,No Decision Made,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-79615,Derek Johnson,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-10-09,2024-10-21,0.0,Competitor Won,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-17455,Yuki Nakamura,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Lost,2024-07-23,2024-08-06,0.0,No Decision Made,CRM
+ACCT-084,TangleRoot Medical,Healthcare,Large,441.08,1210,United States,OPP-20500,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-06-20,2024-08-20,0.0,Competitor Won,CRM
+ACCT-034,TitanForge Services,Business Services,Large,792.46,1299,United States,OPP-18981,Fatima Al-Rashid,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Lost,2023-12-23,2024-03-18,0.0,No Decision Made,CRM
+ACCT-082,RavenCroft Studios,Media & Entertainment,Medium,324.19,978,United States,OPP-18907,Anya Petrov,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-04-05,2024-07-08,0.0,Competitor Won,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-62923,Chloe Bergman,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-01-08,2024-01-18,0.0,Budget Constraints,CRM
+ACCT-010,EliteWave Media,Media & Entertainment,Enterprise,4269.9,6472,United States,OPP-84668,Oliver Dubois,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-10-23,2024-10-26,0.0,Competitor Won,CRM
+ACCT-046,DawnBreak Pharma,Healthcare,Large,1618.89,3889,United States,OPP-85880,Mei Lin Zhang,Brian Nakamura,West,NovaPulse Enterprise,NovaPulse,5482,Lost,2023-11-29,2024-04-12,0.0,No Decision Made,CRM
+ACCT-084,TangleRoot Medical,Healthcare,Large,441.08,1210,United States,OPP-15209,Derek Johnson,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Lost,2024-09-14,2024-11-16,0.0,No Decision Made,CRM
+ACCT-066,WillowBrook Staffing,Professional Services,Medium,291.27,586,United States,OPP-20745,Derek Johnson,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Lost,2024-11-05,2024-11-06,0.0,Poor Product Fit,CRM
+ACCT-022,NorthStar Finance,Financial Services,Large,1102.43,1759,United States,OPP-96163,Derek Johnson,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-07-30,2024-11-30,0.0,No Decision Made,CRM
+ACCT-022,NorthStar Finance,Financial Services,Large,1102.43,1759,United States,OPP-84085,Priya Nair,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-08-08,2025-01-08,0.0,No Decision Made,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-51467,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Lost,2024-09-23,2024-10-05,0.0,Timing Not Right,CRM
+ACCT-077,MoonRise Entertainment,Media & Entertainment,Enterprise,3838.39,8274,United States,OPP-36772,Finn O'Brien,Michael Chen,East,NovaEdge Advanced,NovaEdge,3393,Lost,2025-01-15,2025-01-26,0.0,Timing Not Right,CRM
+ACCT-055,MossCreek Retail,Retail,Large,1419.98,4018,United States,OPP-41285,Finn O'Brien,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Lost,2024-12-29,2025-01-18,0.0,Timing Not Right,CRM
+ACCT-017,KeyStone Innovations,Technology,Large,1712.68,3194,United States,OPP-61876,Finn O'Brien,Michael Chen,East,NovaEdge Advanced,NovaEdge,3393,Lost,2024-03-13,2024-03-21,0.0,Competitor Won,CRM
+ACCT-027,RiverStone Imports,Retail,Large,894.33,1635,Italy,OPP-98039,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Lost,2024-06-18,2024-11-12,0.0,Timing Not Right,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-69929,Chloe Bergman,Brian Nakamura,West,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-10-30,2024-11-06,0.0,Timing Not Right,CRM
+ACCT-050,HighTower Consulting,Business Services,Large,1012.72,3492,Germany,OPP-19508,Noah Kim,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Lost,2024-04-08,2024-08-01,0.0,Budget Constraints,CRM
+ACCT-039,WindRiver Electronics,Technology,Large,527.11,1428,United States,OPP-70068,Amira Diallo,Michael Chen,East,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-06-07,2024-06-09,0.0,No Decision Made,CRM
+ACCT-011,Falcon Software,Software,Large,2714.9,2641,United States,OPP-83792,Sofia Martinez,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2023-12-13,2023-12-19,0.0,Budget Constraints,CRM
+ACCT-059,QuantumShift Tech,Technology,Large,1008.06,1238,United States,OPP-19602,Marcus Webb,David Kim,Central,NovaPulse Starter,NovaPulse,550,Lost,2023-08-26,2023-12-14,0.0,No Decision Made,CRM
+ACCT-010,EliteWave Media,Media & Entertainment,Enterprise,4269.9,6472,United States,OPP-37938,Anya Petrov,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-08-24,2024-11-26,0.0,No Decision Made,CRM
+ACCT-031,SummitEdge Marketing,Marketing & Advertising,Enterprise,2952.73,5107,United States,OPP-44760,Yuki Nakamura,Amanda Foster,West,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-05-16,2024-05-26,0.0,Competitor Won,CRM
+ACCT-032,TerraBloom Services,Business Services,Large,692.19,1922,United States,OPP-55745,Grace Adeyemi,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Lost,2024-02-05,2024-02-07,0.0,Budget Constraints,CRM
+ACCT-002,BioVantage Labs,Healthcare,Medium,251.41,495,United States,OPP-42018,Carlos Rivera,Rachel Torres,East,NovaEdge Advanced,NovaEdge,3393,Lost,2024-05-23,2024-06-04,0.0,Timing Not Right,CRM
+ACCT-001,Apex Dynamics,Technology,Large,1100.04,2822,United States,OPP-47353,Carlos Rivera,Rachel Torres,East,NovaPulse Professional,NovaPulse,4821,Lost,2024-11-19,2024-12-08,0.0,Competitor Won,CRM
+ACCT-055,MossCreek Retail,Retail,Large,1419.98,4018,United States,OPP-67433,Victor Tang,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Lost,2024-05-26,2024-06-10,0.0,No Decision Made,CRM
+ACCT-060,RedCedar Software,Software,Enterprise,6354.87,16780,United States,OPP-49651,Daniel Santos,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-03-06,2024-03-15,0.0,No Decision Made,CRM
+ACCT-063,TideWater Retail,Retail,Enterprise,2214.94,5374,United States,OPP-95717,Anya Petrov,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Lost,2024-06-03,2024-08-01,0.0,No Decision Made,CRM
+ACCT-053,KaleidoScope Retail,Retail,Large,2437.85,4874,United States,OPP-11025,Yuki Nakamura,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Lost,2024-05-24,2024-09-09,0.0,No Decision Made,CRM
+ACCT-061,SkyBridge Marketing,Marketing & Advertising,Small,45.39,100,United States,OPP-49240,Derek Johnson,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Lost,2024-05-17,2024-08-13,0.0,Budget Constraints,CRM
+ACCT-029,SkyCrest Telecom,Telecommunications,Small,86.68,187,United States,OPP-27601,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Lost,2023-11-19,2024-03-17,0.0,Timing Not Right,CRM
+ACCT-073,IndigoVault Finance,Financial Services,Enterprise,2022.14,5113,United States,OPP-25129,Ethan Clarke,Rachel Torres,East,NovaPulse Standard,NovaPulse,1096,Lost,2024-10-12,2024-10-23,0.0,Budget Constraints,CRM
+ACCT-076,LionGate Holdings,Financial Services,Enterprise,7537.24,20293,United States,OPP-82512,Anya Petrov,Brian Nakamura,West,NovaEdge Lite,NovaEdge,55,Lost,2024-03-01,2024-03-11,0.0,Competitor Won,CRM
+ACCT-022,NorthStar Finance,Financial Services,Large,1102.43,1759,United States,OPP-45697,Owen McCarthy,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Lost,2023-12-13,2024-03-15,0.0,Timing Not Right,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-89276,Maya Chen,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Lost,2024-08-24,2025-01-11,0.0,Competitor Won,CRM
+ACCT-064,UrbanLink Telecom,Telecommunications,Enterprise,1699.85,5108,United States,OPP-54942,Grace Adeyemi,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Lost,2024-06-06,2024-06-21,0.0,Competitor Won,CRM
+ACCT-009,EaglePoint Commerce,Retail,Large,718.62,2448,United States,OPP-93130,Leila Hassan,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Lost,2024-06-20,2024-06-23,0.0,Timing Not Right,CRM
+ACCT-020,MapleCrest Retail,Retail,Enterprise,4968.91,7523,United States,OPP-76244,Oliver Dubois,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-04-15,2024-07-02,0.0,Poor Product Fit,CRM
+ACCT-007,CyberNova Systems,Technology,Large,1242.32,3027,United States,OPP-42914,Victor Tang,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Lost,2024-10-21,2024-11-02,0.0,Budget Constraints,CRM
+ACCT-077,MoonRise Entertainment,Media & Entertainment,Enterprise,3838.39,8274,United States,OPP-22097,Hannah Lee,Rachel Torres,East,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-06-13,2024-06-30,0.0,Poor Product Fit,CRM
+ACCT-021,MeridianComm,Telecommunications,Enterprise,1825.82,5595,United States,OPP-46265,Noah Kim,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Lost,2024-11-23,2025-01-21,0.0,Budget Constraints,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-10464,Raj Patel,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Lost,2024-01-08,2024-01-21,0.0,Timing Not Right,CRM
+ACCT-007,CyberNova Systems,Technology,Large,1242.32,3027,United States,OPP-27146,Suki Tanaka,Michael Chen,East,NovaEdge Advanced,NovaEdge,3393,Lost,2024-04-26,2024-05-14,0.0,Timing Not Right,CRM
+ACCT-027,RiverStone Imports,Retail,Large,894.33,1635,Italy,OPP-31178,Raj Patel,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-10-23,2024-11-01,0.0,Poor Product Fit,CRM
+ACCT-062,StoneHarbor Medical,Healthcare,Enterprise,2818.38,6290,United States,OPP-82309,Suki Tanaka,Michael Chen,East,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-08-23,2024-12-14,0.0,Poor Product Fit,CRM
+ACCT-013,GreenField Tech,Technology,Large,1520.66,1806,United States,OPP-83519,Derek Johnson,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Lost,2024-10-14,2024-10-22,0.0,Budget Constraints,CRM
+ACCT-043,AlphaCore Technologies,Technology,Enterprise,7708.38,13756,United States,OPP-24663,Nadia Volkov,Rachel Torres,East,NovaPulse Standard,NovaPulse,1096,Lost,2024-10-19,2024-10-29,0.0,Budget Constraints,CRM
+ACCT-006,CrestLine Retail,Retail,Large,497.11,1588,United States,OPP-29536,Anya Petrov,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Lost,2024-07-11,2024-12-10,0.0,No Decision Made,CRM
+ACCT-004,ClearView Health,Healthcare,Large,587.34,1356,Philipines,OPP-14722,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Lost,2024-06-04,2024-06-20,0.0,Timing Not Right,CRM
+ACCT-060,RedCedar Software,Software,Enterprise,6354.87,16780,United States,OPP-86350,Daniel Santos,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-01-25,2024-02-03,0.0,No Decision Made,CRM
+ACCT-023,OakBridge Staffing,Professional Services,Large,2059.9,3644,United States,OPP-29410,Oliver Dubois,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2023-09-13,2023-12-24,0.0,Poor Product Fit,CRM
+ACCT-063,TideWater Retail,Retail,Enterprise,2214.94,5374,United States,OPP-26704,Anya Petrov,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-04-14,2024-08-17,0.0,Budget Constraints,CRM
+ACCT-042,ZenithMart,Retail,Large,702.72,1831,United States,OPP-50404,Ethan Clarke,Rachel Torres,East,NovaEdge Lite,NovaEdge,55,Lost,2024-06-21,2024-06-30,0.0,Timing Not Right,CRM
+ACCT-007,CyberNova Systems,Technology,Large,1242.32,3027,United States,OPP-15229,Amira Diallo,Michael Chen,East,NovaEdge Advanced,NovaEdge,3393,Lost,2024-05-13,2024-05-23,0.0,Timing Not Right,CRM
+ACCT-043,AlphaCore Technologies,Technology,Enterprise,7708.38,13756,United States,OPP-37535,Finn O'Brien,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Lost,2024-01-11,2024-01-14,0.0,Competitor Won,CRM
+ACCT-077,MoonRise Entertainment,Media & Entertainment,Enterprise,3838.39,8274,United States,OPP-97416,Amira Diallo,Michael Chen,East,NovaEdge Advanced,NovaEdge,3393,Lost,2024-07-19,2024-12-10,0.0,Budget Constraints,CRM
+ACCT-040,XenonGrid Retail,Retail,Large,1388.67,3583,United States,OPP-56357,Daniel Santos,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Lost,2023-10-26,2024-04-21,0.0,No Decision Made,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-63264,Owen McCarthy,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Lost,2024-04-19,2024-08-06,0.0,No Decision Made,CRM
+ACCT-045,CedarPoint Medical,Healthcare,Enterprise,2741.37,9226,United States,OPP-30257,Anya Petrov,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Lost,2023-11-26,2023-12-12,0.0,Competitor Won,CRM
+ACCT-030,SolarWind Finance,Financial Services,Small,52.5,165,United States,OPP-31299,Anya Petrov,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Lost,2024-06-02,2024-06-04,0.0,Competitor Won,CRM
+ACCT-056,NetPulse Technologies,Technology,Enterprise,2938.67,8775,Panama,OPP-64040,Derek Johnson,Sarah Mitchell,Central,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-03-01,2024-03-08,0.0,Budget Constraints,CRM
+ACCT-036,UltraLink Communications,Telecommunications,Enterprise,6395.05,20275,United States,OPP-33509,Finn O'Brien,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Lost,2024-10-12,2024-10-15,0.0,Timing Not Right,CRM
+ACCT-040,XenonGrid Retail,Retail,Large,1388.67,3583,United States,OPP-63964,Anya Petrov,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Lost,2023-10-08,2024-03-01,0.0,Competitor Won,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-44970,Daniel Santos,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-05-12,2024-05-21,0.0,Competitor Won,CRM
+ACCT-010,EliteWave Media,Media & Entertainment,Enterprise,4269.9,6472,United States,OPP-24168,Mei Lin Zhang,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Lost,2023-11-28,2024-04-04,0.0,Poor Product Fit,CRM
+ACCT-063,TideWater Retail,Retail,Enterprise,2214.94,5374,United States,OPP-15075,Mei Lin Zhang,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-04-07,2024-07-26,0.0,Poor Product Fit,CRM
+ACCT-065,VoltEdge Finance,Financial Services,Large,1698.2,3798,United States,OPP-39154,Leila Hassan,David Kim,Central,NovaPulse Starter,NovaPulse,550,Lost,2024-06-13,2024-06-27,0.0,Competitor Won,CRM
+ACCT-061,SkyBridge Marketing,Marketing & Advertising,Small,45.39,100,United States,OPP-70332,Priya Nair,David Kim,Central,NovaEdge Lite,NovaEdge,55,Lost,2023-12-07,2024-03-31,0.0,Timing Not Right,CRM
+ACCT-055,MossCreek Retail,Retail,Large,1419.98,4018,United States,OPP-50001,Hannah Lee,Rachel Torres,East,NovaPulse Professional,NovaPulse,4821,Lost,2024-01-06,2024-05-12,0.0,Competitor Won,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-39219,Finn O'Brien,Michael Chen,East,NovaEdge Advanced,NovaEdge,3393,Lost,2024-10-12,2025-01-01,0.0,Budget Constraints,CRM
+ACCT-068,DuskValley Trading,Retail,Medium,167.89,493,Romania,OPP-96511,Nadia Volkov,Rachel Torres,East,NovaPulse Standard,NovaPulse,1096,Lost,2024-07-11,2025-01-14,0.0,Competitor Won,CRM
+ACCT-048,FrontLine Marketing,Marketing & Advertising,Enterprise,3027.46,9516,Jordan,OPP-62227,Suki Tanaka,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Lost,2024-06-16,2024-06-18,0.0,Timing Not Right,CRM
+ACCT-043,AlphaCore Technologies,Technology,Enterprise,7708.38,13756,United States,OPP-46517,Oliver Dubois,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-10-09,2024-10-12,0.0,Budget Constraints,CRM
+ACCT-034,TitanForge Services,Business Services,Large,792.46,1299,United States,OPP-46585,Daniel Santos,Brian Nakamura,West,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-10-14,2024-10-26,0.0,Timing Not Right,CRM
+ACCT-021,MeridianComm,Telecommunications,Enterprise,1825.82,5595,United States,OPP-94080,Oliver Dubois,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2023-08-26,2024-01-08,0.0,No Decision Made,CRM
+ACCT-026,QuartzPoint Trading,Retail,Large,2520.83,3502,United States,OPP-62386,Suki Tanaka,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Lost,2024-01-17,2024-01-20,0.0,No Decision Made,CRM
+ACCT-043,AlphaCore Technologies,Technology,Enterprise,7708.38,13756,United States,OPP-53404,Victor Tang,Michael Chen,East,NovaEdge Advanced,NovaEdge,3393,Lost,2024-06-16,2024-11-19,0.0,Budget Constraints,CRM
+ACCT-037,Vanguard Marketing Group,Marketing & Advertising,Enterprise,2403.58,8801,United States,OPP-25118,Marcus Webb,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Lost,2024-09-14,2024-10-01,0.0,Timing Not Right,CRM
+ACCT-056,NetPulse Technologies,Technology,Enterprise,2938.67,8775,Panama,OPP-33405,Maya Chen,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-03-31,2024-07-27,0.0,No Decision Made,CRM
+ACCT-046,DawnBreak Pharma,Healthcare,Large,1618.89,3889,United States,OPP-44795,Mei Lin Zhang,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Lost,2024-07-04,2024-11-09,0.0,Budget Constraints,CRM
+ACCT-005,CoralBay Pharma,Healthcare,Large,326.82,1016,United States,OPP-24208,Finn O'Brien,Michael Chen,East,NovaEdge Lite,NovaEdge,55,Lost,2024-09-23,2024-12-28,0.0,No Decision Made,CRM
+ACCT-076,LionGate Holdings,Financial Services,Enterprise,7537.24,20293,United States,OPP-66959,Yuki Nakamura,Amanda Foster,West,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-01-15,2024-03-15,0.0,Timing Not Right,CRM
+ACCT-069,EchoField Marketing,Marketing & Advertising,Large,894.37,1593,Poland,OPP-51114,Oliver Dubois,Brian Nakamura,West,NovaEdge Lite,NovaEdge,55,Lost,2025-01-18,2025-01-31,0.0,Poor Product Fit,CRM
+ACCT-025,PineRidge Global,Retail,Enterprise,5158.71,17479,Japan,OPP-89457,Hannah Lee,Rachel Torres,East,NovaEdge Lite,NovaEdge,55,Lost,2024-10-09,2024-10-11,0.0,No Decision Made,CRM
+ACCT-083,SapphireCode Software,Software,Enterprise,4478.47,13809,United States,OPP-25157,Nadia Volkov,Rachel Torres,East,NovaPulse Professional,NovaPulse,4821,Lost,2024-10-01,2024-10-12,0.0,Poor Product Fit,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-85574,Liam Porter,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Lost,2024-02-01,2024-02-03,0.0,Competitor Won,CRM
+ACCT-043,AlphaCore Technologies,Technology,Enterprise,7708.38,13756,United States,OPP-43386,Liam Porter,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Lost,2024-05-16,2024-09-02,0.0,Budget Constraints,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-67154,Raj Patel,Sarah Mitchell,Central,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-01-20,2024-01-27,0.0,Budget Constraints,CRM
+ACCT-044,BluePeak Marketing,Marketing & Advertising,Large,375.43,1190,United States,OPP-78146,Owen McCarthy,David Kim,Central,NovaPulse Starter,NovaPulse,550,Lost,2024-04-25,2024-08-19,0.0,No Decision Made,CRM
+ACCT-068,DuskValley Trading,Retail,Medium,167.89,493,Romania,OPP-97900,Carlos Rivera,Rachel Torres,East,NovaPulse Professional,NovaPulse,4821,Lost,2024-12-06,2024-12-13,0.0,Competitor Won,CRM
+ACCT-040,XenonGrid Retail,Retail,Large,1388.67,3583,United States,OPP-57739,Noah Kim,Amanda Foster,West,NovaPulse Professional,NovaPulse,4821,Lost,2024-11-02,2024-11-04,0.0,Poor Product Fit,CRM
+ACCT-083,SapphireCode Software,Software,Enterprise,4478.47,13809,United States,OPP-19171,Finn O'Brien,Michael Chen,East,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-05-14,2024-08-24,0.0,Timing Not Right,CRM
+ACCT-017,KeyStone Innovations,Technology,Large,1712.68,3194,United States,OPP-91678,Suki Tanaka,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Lost,2024-01-04,2024-01-20,0.0,Timing Not Right,CRM
+ACCT-049,GoldLeaf Services,Business Services,Large,405.59,1179,Brazil,OPP-96951,Oliver Dubois,Brian Nakamura,West,NovaEdge Advanced,NovaEdge,3393,Lost,2024-09-16,2025-01-14,0.0,Budget Constraints,CRM
+ACCT-066,WillowBrook Staffing,Professional Services,Medium,291.27,586,United States,OPP-49363,Owen McCarthy,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-07-02,2024-12-08,0.0,No Decision Made,CRM
+ACCT-058,PrimeCell Medical,Healthcare,Enterprise,3922.42,6837,United States,OPP-50538,Maya Chen,Sarah Mitchell,Central,NovaPulse Standard,NovaPulse,1096,Lost,2024-03-10,2024-07-05,0.0,Poor Product Fit,CRM
+ACCT-039,WindRiver Electronics,Technology,Large,527.11,1428,United States,OPP-52753,Amira Diallo,Michael Chen,East,NovaEdge Advanced,NovaEdge,3393,Lost,2024-05-17,2024-05-30,0.0,Poor Product Fit,CRM
+ACCT-078,NovaCrest Workforce,Professional Services,Enterprise,2871.35,9561,United States,OPP-48752,Liam Porter,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Lost,2024-07-20,2024-12-17,0.0,No Decision Made,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-26683,Tyler Brooks,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Lost,2023-11-28,2024-04-04,0.0,Competitor Won,CRM
+ACCT-078,NovaCrest Workforce,Professional Services,Enterprise,2871.35,9561,United States,OPP-65108,Anya Petrov,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Lost,2024-05-23,2024-07-22,0.0,Poor Product Fit,CRM
+ACCT-022,NorthStar Finance,Financial Services,Large,1102.43,1759,United States,OPP-98777,Maya Chen,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Lost,2024-04-03,2024-07-29,0.0,Competitor Won,CRM
+ACCT-054,LightWave Studios,Media & Entertainment,Medium,349.81,315,United States,OPP-90676,Fatima Al-Rashid,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Lost,2024-05-26,2024-05-28,0.0,No Decision Made,CRM
+ACCT-078,NovaCrest Workforce,Professional Services,Enterprise,2871.35,9561,United States,OPP-49446,Chloe Bergman,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Lost,2023-10-18,2024-03-06,0.0,Poor Product Fit,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-81819,Chloe Bergman,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-02-15,2024-02-18,0.0,Budget Constraints,CRM
+ACCT-048,FrontLine Marketing,Marketing & Advertising,Enterprise,3027.46,9516,Jordan,OPP-49829,Finn O'Brien,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Lost,2024-05-24,2024-05-26,0.0,Timing Not Right,CRM
+ACCT-009,EaglePoint Commerce,Retail,Large,718.62,2448,United States,OPP-37549,Maya Chen,Sarah Mitchell,Central,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-05-24,2024-06-07,0.0,Poor Product Fit,CRM
+ACCT-019,LunarEdge Marketing,Marketing & Advertising,Large,1197.44,2570,United States,OPP-86019,James Okafor,Rachel Torres,East,NovaPulse Professional,NovaPulse,4821,Lost,2024-05-05,2024-07-22,0.0,No Decision Made,CRM
+ACCT-036,UltraLink Communications,Telecommunications,Enterprise,6395.05,20275,United States,OPP-95813,Amira Diallo,Michael Chen,East,NovaEdge Advanced,NovaEdge,3393,Lost,2024-10-26,2024-10-29,0.0,Timing Not Right,CRM
+ACCT-031,SummitEdge Marketing,Marketing & Advertising,Enterprise,2952.73,5107,United States,OPP-70946,Yuki Nakamura,Amanda Foster,West,NovaEdge Lite,NovaEdge,55,Lost,2024-10-18,2024-10-30,0.0,Poor Product Fit,CRM
+ACCT-012,FreshStart Medical,Healthcare,Small,4.54,9,United States,OPP-67954,Daniel Santos,Brian Nakamura,West,NovaEdge Advanced,NovaEdge,3393,Lost,2024-10-07,2024-10-09,0.0,Competitor Won,CRM
+ACCT-027,RiverStone Imports,Retail,Large,894.33,1635,Italy,OPP-77000,Marcus Webb,David Kim,Central,NovaPulse Starter,NovaPulse,550,Lost,2024-03-18,2024-04-07,0.0,Poor Product Fit,CRM
+ACCT-021,MeridianComm,Telecommunications,Enterprise,1825.82,5595,United States,OPP-32241,Anya Petrov,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Lost,2024-03-18,2024-08-01,0.0,Budget Constraints,CRM
+ACCT-057,OmniReach Telecom,Telecommunications,Large,1188.42,3015,United States,OPP-47196,Anya Petrov,Brian Nakamura,West,NovaEdge Advanced,NovaEdge,3393,Lost,2024-04-26,2024-05-05,0.0,No Decision Made,CRM
+ACCT-007,CyberNova Systems,Technology,Large,1242.32,3027,United States,OPP-97012,Victor Tang,Michael Chen,East,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-05-21,2024-05-23,0.0,No Decision Made,CRM
+ACCT-012,FreshStart Medical,Healthcare,Small,4.54,9,United States,OPP-53933,Owen McCarthy,David Kim,Central,NovaPulse Starter,NovaPulse,550,Lost,2024-05-14,2024-05-27,0.0,Budget Constraints,CRM
+ACCT-022,NorthStar Finance,Financial Services,Large,1102.43,1759,United States,OPP-40784,Raj Patel,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2023-10-11,2024-04-03,0.0,Timing Not Right,CRM
+ACCT-058,PrimeCell Medical,Healthcare,Enterprise,3922.42,6837,United States,OPP-39444,Leila Hassan,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Lost,2024-03-07,2024-03-22,0.0,Competitor Won,CRM
+ACCT-049,GoldLeaf Services,Business Services,Large,405.59,1179,Brazil,OPP-29313,Anya Petrov,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Lost,2023-11-15,2024-04-03,0.0,Budget Constraints,CRM
+ACCT-083,SapphireCode Software,Software,Enterprise,4478.47,13809,United States,OPP-16057,Nadia Volkov,Rachel Torres,East,NovaPulse Starter,NovaPulse,550,Lost,2024-10-05,2024-10-16,0.0,Competitor Won,CRM
+ACCT-049,GoldLeaf Services,Business Services,Large,405.59,1179,Brazil,OPP-72277,Chloe Bergman,Brian Nakamura,West,NovaEdge Lite,NovaEdge,55,Lost,2023-11-28,2024-02-28,0.0,No Decision Made,CRM
+ACCT-060,RedCedar Software,Software,Enterprise,6354.87,16780,United States,OPP-19545,Anya Petrov,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Lost,2024-06-10,2024-06-20,0.0,Poor Product Fit,CRM
+ACCT-011,Falcon Software,Software,Large,2714.9,2641,United States,OPP-64321,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Lost,2024-04-01,2024-07-26,0.0,No Decision Made,CRM
+ACCT-055,MossCreek Retail,Retail,Large,1419.98,4018,United States,OPP-35485,Finn O'Brien,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Lost,2024-01-28,2024-02-07,0.0,Poor Product Fit,CRM
+ACCT-008,DataStream Analytics,Software,Large,987.39,2253,United States,OPP-74799,Amira Diallo,Michael Chen,East,NovaEdge Advanced,NovaEdge,3393,Lost,2024-04-17,2024-08-24,0.0,Poor Product Fit,CRM
+ACCT-031,SummitEdge Marketing,Marketing & Advertising,Enterprise,2952.73,5107,United States,OPP-41979,Daniel Santos,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-01-06,2024-01-18,0.0,Competitor Won,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-95990,Maya Chen,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-04-25,2024-07-29,0.0,Budget Constraints,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-23970,Finn O'Brien,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Lost,2024-08-08,2024-12-04,0.0,Poor Product Fit,CRM
+ACCT-003,BrightPath Medical,Healthcare,Large,647.18,1185,Kenya,OPP-38683,Maya Chen,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Lost,2024-07-09,2024-12-17,0.0,Competitor Won,CRM
+ACCT-037,Vanguard Marketing Group,Marketing & Advertising,Enterprise,2403.58,8801,United States,OPP-77889,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Lost,2024-05-23,2024-05-24,0.0,Poor Product Fit,CRM
+ACCT-030,SolarWind Finance,Financial Services,Small,52.5,165,United States,OPP-16582,Chloe Bergman,Brian Nakamura,West,NovaEdge Lite,NovaEdge,55,Lost,2024-09-14,2024-11-15,0.0,No Decision Made,CRM
+ACCT-024,PeakVista Capital,Financial Services,Enterprise,2819.5,7227,United States,OPP-42662,Marcus Webb,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Lost,2024-12-01,2024-12-18,0.0,Budget Constraints,CRM
+ACCT-067,CrossPoint Retail,Retail,Large,1376.8,1165,Belgium,OPP-69829,Derek Johnson,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Lost,2024-11-24,2024-12-03,0.0,Competitor Won,CRM
+ACCT-046,DawnBreak Pharma,Healthcare,Large,1618.89,3889,United States,OPP-70901,Noah Kim,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Lost,2024-02-19,2024-02-22,0.0,No Decision Made,CRM
+ACCT-074,JuniperRock Capital,Financial Services,Medium,646.1,883,United States,OPP-83259,Victor Tang,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Lost,2024-07-13,2024-11-23,0.0,No Decision Made,CRM
+ACCT-028,SilverLine Tech,Technology,Large,1223.72,2497,Norway,OPP-51588,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Lost,2024-01-31,2024-02-01,0.0,Poor Product Fit,CRM
+ACCT-080,PebbleBrook Retail,Retail,Small,71.12,144,United States,OPP-90301,Finn O'Brien,Michael Chen,East,NovaEdge Advanced,NovaEdge,3393,Lost,2024-04-11,2024-08-08,0.0,No Decision Made,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-65933,Tyler Brooks,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2023-11-11,2024-03-13,0.0,No Decision Made,CRM
+ACCT-030,SolarWind Finance,Financial Services,Small,52.5,165,United States,OPP-68446,Liam Porter,Amanda Foster,West,NovaPulse Standard,NovaPulse,1096,Lost,2024-01-18,2024-01-24,0.0,Competitor Won,CRM
+ACCT-020,MapleCrest Retail,Retail,Enterprise,4968.91,7523,United States,OPP-72216,Oliver Dubois,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Lost,2024-08-06,2024-11-18,0.0,Poor Product Fit,CRM
+ACCT-004,ClearView Health,Healthcare,Large,587.34,1356,Philipines,OPP-43972,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Lost,2025-01-14,2025-01-29,0.0,Competitor Won,CRM
+ACCT-041,YieldMax Software,Software,Enterprise,11698.03,34288,United States,OPP-93579,Grace Adeyemi,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Lost,2024-05-16,2024-05-28,0.0,Timing Not Right,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-78327,Maya Chen,Sarah Mitchell,Central,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-05-27,2024-06-10,0.0,Poor Product Fit,CRM
+ACCT-051,IvyBridge Staffing,Professional Services,Large,882.12,2769,United States,OPP-92149,Nadia Volkov,Rachel Torres,East,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-06-16,2024-06-17,0.0,Competitor Won,CRM
+ACCT-009,EaglePoint Commerce,Retail,Large,718.62,2448,United States,OPP-45992,Derek Johnson,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-06-14,2024-07-04,0.0,Poor Product Fit,CRM
+ACCT-009,EaglePoint Commerce,Retail,Large,718.62,2448,United States,OPP-20155,Derek Johnson,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-09-05,2024-12-27,0.0,Timing Not Right,CRM
+ACCT-011,Falcon Software,Software,Large,2714.9,2641,United States,OPP-40735,Leila Hassan,David Kim,Central,NovaEdge Lite,NovaEdge,55,Lost,2023-11-28,2024-03-22,0.0,Timing Not Right,CRM
+ACCT-038,WestBridge Medical,Healthcare,Large,3178.24,4540,United States,OPP-54020,Derek Johnson,Sarah Mitchell,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-05-20,2024-05-23,0.0,Timing Not Right,CRM
+ACCT-054,LightWave Studios,Media & Entertainment,Medium,349.81,315,United States,OPP-80798,Chloe Bergman,Brian Nakamura,West,NovaEdge Lite,NovaEdge,55,Lost,2024-09-13,2024-12-15,0.0,Budget Constraints,CRM
+ACCT-047,EverGlow Studios,Media & Entertainment,Large,665.06,1095,United States,OPP-28136,James Okafor,Rachel Torres,East,NovaPulse Professional,NovaPulse,4821,Lost,2024-09-14,2024-10-01,0.0,Competitor Won,CRM
+ACCT-070,ForestGlen Medical,Healthcare,Medium,439.21,792,United States,OPP-40311,James Okafor,Rachel Torres,East,NovaEdge Lite,NovaEdge,55,Lost,2023-11-28,2024-03-20,0.0,Poor Product Fit,CRM
+ACCT-016,JetStream Technologies,Technology,Large,587.72,1501,United States,OPP-30028,Fatima Al-Rashid,Amanda Foster,West,NovaPulse Standard,NovaPulse,1096,Lost,2024-09-13,2024-11-09,0.0,Competitor Won,CRM
+ACCT-014,HarborView Digital,Software,Small,98.79,96,United States,OPP-18418,Daniel Santos,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-06-17,2024-12-01,0.0,Poor Product Fit,CRM
+ACCT-043,AlphaCore Technologies,Technology,Enterprise,7708.38,13756,United States,OPP-63424,Noah Kim,Amanda Foster,West,NovaEdge Advanced,NovaEdge,3393,Lost,2023-11-25,2024-03-13,0.0,Timing Not Right,CRM
+ACCT-039,WindRiver Electronics,Technology,Large,527.11,1428,United States,OPP-81121,Amira Diallo,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Lost,2024-05-26,2024-06-04,0.0,Poor Product Fit,CRM
+ACCT-026,QuartzPoint Trading,Retail,Large,2520.83,3502,United States,OPP-64496,Finn O'Brien,Michael Chen,East,NovaPulse Professional,NovaPulse,4821,Lost,2024-05-12,2024-07-27,0.0,Budget Constraints,CRM
+ACCT-012,FreshStart Medical,Healthcare,Small,4.54,9,United States,OPP-37110,Hannah Lee,Rachel Torres,East,NovaEdge Advanced,NovaEdge,3393,Lost,2024-02-07,2024-02-24,0.0,Poor Product Fit,CRM
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,8170.38,16499,Korea,OPP-61049,Oliver Dubois,Brian Nakamura,West,NovaEdge Advanced,NovaEdge,3393,Lost,2024-01-13,2024-01-14,0.0,No Decision Made,CRM
+ACCT-005,CoralBay Pharma,Healthcare,Large,326.82,1016,United States,OPP-12560,Finn O'Brien,Michael Chen,East,NovaPulse Enterprise,NovaPulse,5482,Lost,2023-11-09,2024-04-10,0.0,No Decision Made,CRM
+ACCT-071,GraniteShore Retail,Retail,Medium,332.43,799,United States,OPP-59857,Marcus Webb,David Kim,Central,NovaEdge Lite,NovaEdge,55,Lost,2024-05-20,2024-08-08,0.0,Poor Product Fit,CRM
+ACCT-071,GraniteShore Retail,Retail,Medium,332.43,799,United States,OPP-10772,Priya Nair,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-04-21,2024-09-09,0.0,Timing Not Right,CRM
+ACCT-034,TitanForge Services,Business Services,Large,792.46,1299,United States,OPP-49139,Mei Lin Zhang,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Lost,2024-11-01,2024-11-04,0.0,Poor Product Fit,CRM
+ACCT-053,KaleidoScope Retail,Retail,Large,2437.85,4874,United States,OPP-64921,Noah Kim,Amanda Foster,West,NovaPulse Starter,NovaPulse,550,Lost,2024-09-05,2024-12-03,0.0,No Decision Made,CRM
+ACCT-064,UrbanLink Telecom,Telecommunications,Enterprise,1699.85,5108,United States,OPP-81582,Yuki Nakamura,Amanda Foster,West,NovaPulse Professional,NovaPulse,4821,Lost,2023-11-12,2024-04-07,0.0,No Decision Made,CRM
+ACCT-083,SapphireCode Software,Software,Enterprise,4478.47,13809,United States,OPP-38906,Finn O'Brien,Michael Chen,East,NovaEdge Advanced,NovaEdge,3393,Lost,2024-03-08,2024-03-25,0.0,Poor Product Fit,CRM
+ACCT-075,KestrelWing Services,Business Services,Enterprise,2041.73,5276,United States,OPP-38760,Owen McCarthy,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-04-08,2024-07-11,0.0,Timing Not Right,CRM
+ACCT-003,BrightPath Medical,Healthcare,Large,647.18,1185,Kenya,OPP-67125,Owen McCarthy,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-06-04,2024-06-17,0.0,Poor Product Fit,CRM
+ACCT-051,IvyBridge Staffing,Professional Services,Large,882.12,2769,United States,OPP-13804,Finn O'Brien,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Lost,2024-06-04,2024-09-20,0.0,Poor Product Fit,CRM
+ACCT-003,BrightPath Medical,Healthcare,Large,647.18,1185,Kenya,OPP-54057,Owen McCarthy,David Kim,Central,NovaPulse Enterprise,NovaPulse,5482,Lost,2024-04-25,2024-07-23,0.0,Poor Product Fit,CRM
+ACCT-052,JadeVault Finance,Financial Services,Medium,355.23,853,United States,OPP-31632,Finn O'Brien,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Lost,2024-05-13,2024-05-31,0.0,Poor Product Fit,CRM
+ACCT-032,TerraBloom Services,Business Services,Large,692.19,1922,United States,OPP-26728,Oliver Dubois,Brian Nakamura,West,NovaPulse Standard,NovaPulse,1096,Lost,2024-05-10,2024-08-24,0.0,No Decision Made,CRM
+ACCT-059,QuantumShift Tech,Technology,Large,1008.06,1238,United States,OPP-80008,Priya Nair,David Kim,Central,NovaEdge Advanced,NovaEdge,3393,Lost,2024-01-14,2024-01-27,0.0,Budget Constraints,CRM
+ACCT-080,PebbleBrook Retail,Retail,Small,71.12,144,United States,OPP-61645,Amira Diallo,Michael Chen,East,NovaPulse Standard,NovaPulse,1096,Lost,2024-06-07,2024-06-17,0.0,No Decision Made,CRM
+ACCT-013,GreenField Tech,Technology,Large,1520.66,1806,United States,OPP-83975,Anika Larsson,Sarah Mitchell,Central,NovaEdge Lite,NovaEdge,55,Lost,2024-03-29,2024-08-29,0.0,Budget Constraints,CRM
+ACCT-022,NorthStar Finance,Financial Services,Large,1102.43,1759,United States,OPP-21003,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Lost,2024-01-24,2024-02-07,0.0,Poor Product Fit,CRM
+ACCT-071,GraniteShore Retail,Retail,Medium,332.43,799,United States,OPP-27786,Leila Hassan,David Kim,Central,NovaPulse Standard,NovaPulse,1096,Lost,2024-05-20,2024-06-02,0.0,Poor Product Fit,CRM
+ACCT-069,EchoField Marketing,Marketing & Advertising,Large,894.37,1593,Poland,OPP-33819,Oliver Dubois,Brian Nakamura,West,NovaPulse Starter,NovaPulse,550,Lost,2024-04-24,2024-07-20,0.0,Budget Constraints,CRM
+ACCT-029,SkyCrest Telecom,Telecommunications,Small,86.68,187,United States,OPP-44099,Owen McCarthy,David Kim,Central,NovaPulse Starter,NovaPulse,550,Lost,2024-09-07,2024-09-16,0.0,Poor Product Fit,CRM
+ACCT-016,JetStream Technologies,Technology,Large,587.72,1501,United States,OPP-52906,Oliver Dubois,Brian Nakamura,West,NovaPulse Professional,NovaPulse,4821,Lost,2024-01-29,2024-01-31,0.0,Competitor Won,CRM
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,5266.09,8595,United States,OPP-69598,Owen McCarthy,David Kim,Central,NovaPulse Professional,NovaPulse,4821,Lost,2024-02-01,2024-02-04,0.0,Timing Not Right,CRM
+ACCT-055,MossCreek Retail,Retail,Large,1419.98,4018,United States,OPP-54236,Victor Tang,Michael Chen,East,NovaPulse Starter,NovaPulse,550,Lost,2024-01-31,2024-02-10,0.0,Poor Product Fit,CRM
+ACCT-009,EaglePoint Commerce,Retail,Large,718.62,2448,United States,OPP-46471,Derek Johnson,Sarah Mitchell,Central,NovaPulse Starter,NovaPulse,550,Lost,2023-12-07,2024-03-11,0.0,Poor Product Fit,CRM
