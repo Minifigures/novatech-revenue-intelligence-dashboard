@@ -122,7 +122,7 @@ python3 analysis/ground_truth.py && python3 analysis/data_quality.py
 | [`06_dashboard_executive_summary.md`](deliverables/06_dashboard_executive_summary.md) | Amazon Quick's auto-generated executive summaries, verified — including one that misreports the top loss reasons |
 | [`07_dashboard_annotations.md`](deliverables/07_dashboard_annotations.md) | Annotation text: quantified finding → business implication → action |
 | [`08_executive_report.md`](deliverables/08_executive_report.md) | 1–3 page report for VP Sarah Chen |
-| [`SHOT_LIST.md`](screenshots/SHOT_LIST.md) | Direct links to every built artifact in the Quick workspace |
+| [`screenshots/README.md`](screenshots/README.md) | Index of the 23 screenshots captured from the live workspace |
 
 ## What was built in Amazon Quick
 
