@@ -1,7 +1,8 @@
 # Screenshot index
 
-23 screenshots captured from the live Amazon Quick workspace
-(`UdacityQuicksightLab`, us-west-2) on 13 September 2026. Browser chrome is
+29 screenshots captured from the live Amazon Quick workspace
+(`UdacityQuicksightLab`, us-west-2) on 13 September 2026, with the six SPICE
+import screenshots (`01a`–`01f`) added on 26 September 2026. Browser chrome is
 cropped so each image shows only the application.
 
 ## 01 — Data import into SPICE
@@ -9,6 +10,12 @@ cropped so each image shows only the application.
 | File | Shows |
 |---|---|
 | `01_datasets_in_spice.png` | All four datasets owned by **Me**, each tagged **SPICE**: CRM Deals (prepared), Marketing Campaigns (prepared), Support Tickets (prepared), and the Unified Revenue Dataset (CRM anchor) |
+| `01a_crm_deals_spice_499_rows_20_source_columns.png` | CRM Deals Summary page: **SPICE**, source `novatech_crm_deals.csv`, **499 rows imported (100% success)**, and all 20 source columns |
+| `01b_crm_deals_page2_3_calculated_fields.png` | Page 2 of the same column list: the 3 calculated fields that bring the total to 23 |
+| `01c_marketing_campaigns_spice_2240_rows_20_source_columns.png` | Marketing Campaigns Summary page: **SPICE**, source `novatech_marketing_campaigns.csv`, **2,240 rows imported (100% success)**, and all 20 source columns |
+| `01d_marketing_campaigns_page2_3_calculated_fields.png` | Page 2: the 3 calculated fields that bring the total to 23 |
+| `01e_support_tickets_spice_3000_rows_20_source_columns.png` | Support Tickets Summary page: **SPICE**, source `novatech_support_tickets.csv`, **3,000 rows imported (100% success)**, and all 20 source columns |
+| `01f_support_tickets_page2_4_calculated_fields.png` | Page 2: the 4 calculated fields that bring the total to 24 |
 
 ## 02 — Transformations and the join
 

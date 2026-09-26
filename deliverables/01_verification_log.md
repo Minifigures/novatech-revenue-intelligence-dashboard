@@ -29,6 +29,31 @@ confirmatory.
 
 ---
 
+## SPICE import confirmation
+
+All three CSVs were uploaded as datasets and imported into SPICE with no rows
+dropped. Each dataset's Summary page in Amazon Quick shows the SPICE badge, the
+source file, the rows imported and the full column list.
+
+| Dataset | Source file | Rows in CSV | Rows imported to SPICE | Columns in CSV | Columns in SPICE | Screenshots |
+|---|---|---|---|---|---|---|
+| NovaTech CRM Deals (prepared) | `novatech_crm_deals.csv` | 499 | **499 (100% success)** | 20 | 23 = **20 source** + 3 calculated | `screenshots/01_data_import/01a_…`, `01b_…` |
+| NovaTech Marketing Campaigns (prepared) | `novatech_marketing_campaigns.csv` | 2,240 | **2,240 (100% success)** | 20 | 23 = **20 source** + 3 calculated | `screenshots/01_data_import/01c_…`, `01d_…` |
+| NovaTech Support Tickets (prepared) | `novatech_support_tickets.csv` | 3,000 | **3,000 (100% success)** | 20 | 24 = **20 source** + 4 calculated | `screenshots/01_data_import/01e_…`, `01f_…` |
+
+- **Rows:** SPICE row counts match the source files and the data dictionary
+  exactly (499 / 2,240 / 3,000), with 0 rows skipped.
+- **Columns:** page 1 of each Summary page lists the 20 source columns, and
+  their names are identical, in order, to the CSV header. Page 2 lists the only
+  additional columns, which are the calculated fields added during preparation:
+  - CRM: `days_to_close`, `is_won`, `discount_from_list_pct`
+  - Marketing: `campaign_roi_pct`, `is_closed_won_lead`, `net_campaign_contribution`
+  - Support: `resolution_hours`, `sentiment_clean`, `is_high_priority`, `is_negative_sentiment`
+- **Import time:** CRM 3:47 PM, Marketing 3:51 PM, Support 4:23 PM EDT on
+  13 September 2026, as recorded on each dataset's Refresh panel.
+
+---
+
 ## The one discrepancy, in detail
 
 Entry 7 is the only case where Q's number differed from the expected value, and

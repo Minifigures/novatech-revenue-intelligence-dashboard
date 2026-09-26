@@ -9,7 +9,7 @@ Rubric requirement → where it is satisfied.
 | Verification log, ≥6 entries across all three knowledge bases | ✅ | `deliverables/01_verification_log.md` — 7 answered entries (3 CRM, 2 Marketing, 2 Support) plus 1 documented environment gap |
 | Each entry has question, Q's response, expected answer, pass/fail | ✅ | Same file. Expected answers computed independently by `analysis/ground_truth.py` before asking |
 | Questions target checkable facts (row counts, distinct values, date ranges, nulls) | ✅ | Row counts, Won/Lost split, revenue totals, date ranges, null counts, priority distribution |
-| Screenshots of three CSVs imported to SPICE with correct row/column counts | ✅ | Datasets are built and published; `screenshots/01_data_import/` |
+| Screenshots of three CSVs imported to SPICE with correct row/column counts | ✅ | `screenshots/01_data_import/01a`–`01f`: each dataset's Summary page showing SPICE, the source CSV, rows imported (499 / 2,240 / 3,000, 100% success) and all 20 source columns plus the calculated fields. Table in `deliverables/01_verification_log.md` → *SPICE import confirmation* |
 | Data type corrections on ≥1 dataset | ✅ | `deal_value` Integer → **Decimal** on CRM; `annual_income` Integer → **Decimal** on Marketing. see `screenshots/README.md`|
 | ≥2 calculated fields using business logic | ✅ | **10 fields** across the three datasets. see `screenshots/README.md`|
 | Unified dataset joining all three sources, join diagram + configuration visible | ✅ | `NovaTech Unified Revenue Dataset (CRM anchor)`. see `screenshots/README.md`|
@@ -46,7 +46,7 @@ Rubric requirement → where it is satisfied.
 
 ## Nothing outstanding
 
-All 23 screenshots were captured directly from the live workspace — see
+All 29 screenshots were captured directly from the live workspace — see
 `screenshots/README.md` for an index of what each one shows.
 
 ## Submitting
