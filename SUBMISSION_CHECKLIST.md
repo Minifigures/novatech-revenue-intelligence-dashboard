@@ -10,7 +10,7 @@ Rubric requirement → where it is satisfied.
 | Each entry has question, Q's response, expected answer, pass/fail | ✅ | Same file. Expected answers computed independently by `analysis/ground_truth.py` before asking |
 | Questions target checkable facts (row counts, distinct values, date ranges, nulls) | ✅ | Row counts, Won/Lost split, revenue totals, date ranges, null counts, priority distribution |
 | Screenshots of three CSVs imported to SPICE with correct row/column counts | ✅ | `screenshots/01_data_import/01a`–`01f`: each dataset's Summary page showing SPICE, the source CSV, rows imported (499 / 2,240 / 3,000, 100% success) and all 20 source columns plus the calculated fields. Table in `deliverables/01_verification_log.md` → *SPICE import confirmation* |
-| Data type corrections on ≥1 dataset | ✅ | `deal_value` Integer → **Decimal** on CRM; `annual_income` Integer → **Decimal** on Marketing. see `screenshots/README.md`|
+| Data type corrections on ≥1 dataset | ✅ | CRM: `deal_created_date` and `deal_closed_date` Datetime → **Date** (`screenshots/02_transformations/02_data_type_corrections.png`; `deal_value` is shown Decimal → Decimal, unchanged). No screenshot shows a Marketing type change such as `annual_income`. see `screenshots/README.md`|
 | ≥2 calculated fields using business logic | ✅ | **10 fields** across the three datasets. see `screenshots/README.md`|
 | Unified dataset joining all three sources, join diagram + configuration visible | ✅ | `NovaTech Unified Revenue Dataset (CRM anchor)`. see `screenshots/README.md`|
 | Anchor table and join type identified | ✅ | CRM anchor, left joins — stated in `README.md`, the report, and the Topic instructions |
@@ -23,7 +23,7 @@ Rubric requirement → where it is satisfied.
 | Three sheets: Marketing Funnel, Sales Pipeline, Customer Health | ✅ | `deliverables/03_dashboard_export_all_sheets.pdf` |
 | Each sheet has ≥1 KPI card and multiple appropriate visuals | ✅ | 4 KPI cards + 4 visuals on Marketing; 4 + 5 on Sales; 3 + 4 on Customer Health |
 | Customer Health includes ≥1 visual from the unified dataset | ✅ | "Ticket Volume and Deal Value by Account" |
-| ≥2 sheets include interactive filter controls | ✅ | Six filter controls on all three sheets |
+| ≥2 sheets include interactive filter controls | ✅ | Six filter controls each on Marketing Funnel and Sales Pipeline (sales_region, deal_stage, industry, company_size_tier, campaign_channel, customer_segment); none on Customer Health (PDF p.3 has no filter block) |
 | ≥1 sheet has one-click filtering on 2+ visuals | ✅ | Customer Health: click-to-filter on *Ticket Volume by Product Area* and on *Average Resolution Time by Priority*, both targeting all visuals |
 | ≥1 cross-sheet navigation action | ✅ | Customer Health → Sales Pipeline, on the product-area visual's menu |
 | Published and exported as PDF covering all three sheets | ✅ | 3-page PDF in `deliverables/` |

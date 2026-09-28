@@ -1,13 +1,17 @@
 # Dashboard Annotations
 
-Five text annotations placed on the published dashboard. Each states a
-quantified finding, explains why it matters commercially, and recommends a
-specific action. Every figure is reproducible from `analysis/ground_truth.py`.
+The published dashboard carries three text annotations, one text box per sheet
+(`deliverables/03_dashboard_export_all_sheets.pdf`, `screenshots/05_annotations/`). The
+five annotations below, plus an optional sixth, are the longer drafts those
+three boxes were condensed from; the heading under each one says where it ended
+up. Each states a quantified finding, explains why it matters commercially, and
+recommends a specific action. Every figure is reproducible from
+`analysis/ground_truth.py`.
 
 ---
 
 ## Annotation 1 — Marketing Funnel sheet
-### Placed beside the "Closed-Won Rate by Channel" chart
+### On the dashboard: the main text of the Marketing Funnel text box
 
 > **Direct Mail converts 54× better than Organic Search but receives 6.7% of the
 > leads.** Direct Mail turns 49.0% of its 149 leads into Closed Won, against
@@ -26,7 +30,7 @@ specific action. Every figure is reproducible from `analysis/ground_truth.py`.
 ---
 
 ## Annotation 2 — Marketing Funnel sheet
-### Placed beside the "Campaign Spend vs Revenue Attributed" combo chart
+### On the dashboard: only its spend-allocation caveat, as the CAVEAT line of the Marketing Funnel text box
 
 > **All six campaigns are underwater, and NovaEdge Awareness is the worst at
 > −97.7% return.** It spends $1.52M to attribute $34K of revenue, with a 6.2%
@@ -46,7 +50,7 @@ specific action. Every figure is reproducible from `analysis/ground_truth.py`.
 ---
 
 ## Annotation 3 — Sales Pipeline sheet
-### Placed beside the "Win Rate by Sales Region" chart
+### On the dashboard: combined with Annotation 4 in the Sales Pipeline text box
 
 > **Central closes 69.9% of its deals; East closes 57.8%.** Central won 144 of
 > 206 deals and booked $274,285. East won 74 of 128 and booked $184,673. The
@@ -63,7 +67,7 @@ specific action. Every figure is reproducible from `analysis/ground_truth.py`.
 ---
 
 ## Annotation 4 — Sales Pipeline sheet
-### Placed beside the "Deal Count by Loss Reason" chart
+### On the dashboard: combined with Annotation 3 in the Sales Pipeline text box
 
 > **Nearly half of all losses are self-inflicted: 46.7% are "No Decision Made"
 > (43) or "Poor Product Fit" (43), out of 184 lost deals.** Competitor Won
@@ -81,7 +85,7 @@ specific action. Every figure is reproducible from `analysis/ground_truth.py`.
 ---
 
 ## Annotation 5 — Customer Health sheet
-### Placed beside the "At-Risk Accounts" table
+### On the dashboard: the Customer Health text box
 
 > **Our single largest customer is also our heaviest support burden.**
 > YieldMax Software (ACCT-041) is the top revenue account at $40,722 and files
@@ -104,7 +108,7 @@ specific action. Every figure is reproducible from `analysis/ground_truth.py`.
 ---
 
 ## Optional sixth annotation — Customer Health sheet
-### Placed beside "Average Resolution Time by Priority"
+### Not placed on the dashboard
 
 > **Priority is not changing how fast tickets get resolved.** Critical tickets
 > average 56.6 hours to resolve; low-priority tickets average 59.4 hours. The
@@ -124,6 +128,7 @@ specific action. Every figure is reproducible from `analysis/ground_truth.py`.
 
 ## Note on placement
 
-Annotations are added to the dashboard sheets as text boxes positioned next to
-the visual each one refers to, so the number being discussed is visible in the
-same screen area as the commentary.
+Each sheet has one text box, at the bottom left below the visuals (PDF pages 1
+to 3, `screenshots/05_annotations/`). Each box is headed in capitals and follows the same
+FINDING, WHY IT MATTERS, ACTION structure as the drafts above; the Marketing
+Funnel box adds a CAVEAT line.
