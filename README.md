@@ -52,7 +52,8 @@ change how metrics must be built — see
    distinct ID.
 2. **59 tickets have null `customer_sentiment`**, a field the dictionary says is
    never null. Handled with a `sentiment_clean` calculated field that relabels
-   them "Unresolved" so the sentiment chart still totals 3,000.
+   them "Unresolved" so the sentiment chart keeps them rather than dropping
+   them (see [Known limitations](#known-limitations) for the chart's total).
 3. **Marketing over-attributes revenue** (see table above). CRM is treated as the
    single source of truth for revenue; attributed revenue only ranks campaigns
    against each other.
@@ -157,10 +158,12 @@ screenshots. The dashboard lives in a course lab and can no longer be edited, so
 they are recorded here rather than fixed. Each was checked against `data/*.csv`.
 
 - **"Ticket Volume and Deal Value by Account" does not show revenue.** Its
-  `deal_value` column is a distinct count of deal values, not a sum (PDF p.3,
-  screenshot 20). ACCT-001 shows 4, its number of distinct `deal_value` entries,
-  while its booked revenue is $12,151. All 13 rows visible in the PDF match the
-  distinct count.
+  `deal_value` column is a distinct count of deal values, not a sum or a deal
+  count (PDF p.3, screenshot 20). ACCT-007 shows 1: it has 4 deals, all Lost at
+  $0, so one distinct value and no booked revenue. ACCT-003 shows 9 against 11
+  deals. All 13 rows visible in the PDF match the distinct count. Neither the
+  PDF nor the screenshot labels the aggregation; the only hint is the PDF
+  subtitle "Account-level ticket counts alongside unique deal values".
 - **The Sales Pipeline donut shows 496 deals, not 499.** It counts distinct
   `opportunity_id`, and three IDs appear twice in the CRM data: OPP-82512,
   OPP-98039 and OPP-44760. Each pairs a Won deal and a Lost deal on different
