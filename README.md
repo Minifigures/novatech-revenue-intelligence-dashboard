@@ -52,7 +52,8 @@ change how metrics must be built — see
    distinct ID.
 2. **59 tickets have null `customer_sentiment`**, a field the dictionary says is
    never null. Handled with a `sentiment_clean` calculated field that relabels
-   them "Unresolved" so the sentiment chart still totals 3,000.
+   them "Unresolved" so the sentiment chart keeps them rather than dropping
+   them (see [Known limitations](#known-limitations) for the chart's total).
 3. **Marketing over-attributes revenue** (see table above). CRM is treated as the
    single source of truth for revenue; attributed revenue only ranks campaigns
    against each other.
@@ -130,7 +131,7 @@ python3 analysis/ground_truth.py && python3 analysis/data_quality.py
 |---|---|
 | **Datasets (4, all SPICE)** | CRM Deals, Marketing Campaigns, Support Tickets (each with corrected data types and calculated fields) plus the unified CRM⟕Marketing⟕Support join |
 | **Calculated fields (10)** | `days_to_close`, `is_won`, `discount_from_list_pct`, `campaign_roi_pct`, `is_closed_won_lead`, `net_campaign_contribution`, `resolution_hours`, `sentiment_clean`, `is_high_priority`, `is_negative_sentiment` |
-| **Dashboard** | 3 sheets, KPI cards and visuals on each, 6 filter controls, click-to-filter actions on two visuals, and a cross-sheet navigation action from Customer Health → Sales Pipeline |
+| **Dashboard** | 3 sheets, KPI cards and visuals on each, 6 filter controls on each of Marketing Funnel and Sales Pipeline (none on Customer Health), click-to-filter actions on two visuals, and a cross-sheet navigation action from Customer Health → Sales Pipeline |
 | **Topic** | `NovaTech Revenue Intelligence` — business glossary, 6 data-quality rules, an explicit fan-out rule, and a fields-to-ignore list |
 
 ### Where the AI helped, and where it didn't
@@ -147,6 +148,38 @@ summary cited the **three smallest** loss reasons as the "top" ones, omitting th
 two tied at the top that together drive 46.7% of losses. The working rule that
 came out of this: **trust the number you asked for; verify any number that
 arrives alongside it.**
+
+---
+
+## Known limitations
+
+These are issues in the published dashboard, visible in the PDF export and the
+screenshots. The dashboard lives in a course lab and can no longer be edited, so
+they are recorded here rather than fixed. Each was checked against `data/*.csv`.
+
+- **"Ticket Volume and Deal Value by Account" does not show revenue.** Its
+  `deal_value` column is a distinct count of deal values, not a sum or a deal
+  count (PDF p.3, screenshot 20). ACCT-007 shows 1: it has 4 deals, all Lost at
+  $0, so one distinct value and no booked revenue. ACCT-003 shows 9 against 11
+  deals. All 13 rows visible in the PDF match the distinct count. Neither the
+  PDF nor the screenshot labels the aggregation; the only hint is the PDF
+  subtitle "Account-level ticket counts alongside unique deal values".
+- **The Sales Pipeline donut shows 496 deals, not 499.** It counts distinct
+  `opportunity_id`, and three IDs appear twice in the CRM data: OPP-82512,
+  OPP-98039 and OPP-44760. Each pairs a Won deal and a Lost deal on different
+  accounts, so the per-stage counts (315 Won, 184 Lost) are unaffected and only
+  the total drops by 3. The 20-check audit in `analysis/data_quality.py` does
+  not test `opportunity_id` uniqueness.
+- **The loss-reason chart has an "empty" bar of 315.** "Deal Count by Loss
+  Reason" plots the 315 Won deals, whose `loss_reason` is blank, as a bar
+  labelled "empty" beside the five real reasons (43, 43, 34, 33 and 31, which
+  sum to the 184 lost deals) (PDF p.2).
+- **The sentiment donut counts distinct `ticket_id`.** "Ticket Count by Customer
+  Sentiment" is sized by `ticket_id (Count distinct)` (PDF p.3, screenshot 20),
+  against this repo's rule that tickets are counted by row because 4 IDs are
+  reused. On the data, a distinct count gives 1,950 neutral tickets instead of
+  1,953, and 2,996 tickets overall instead of 3,000. The centre label reads
+  "3K", which hides the difference.
 
 ---
 

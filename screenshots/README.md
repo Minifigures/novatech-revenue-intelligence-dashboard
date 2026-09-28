@@ -21,7 +21,7 @@ cropped so each image shows only the application.
 
 | File | Shows |
 |---|---|
-| `02_data_type_corrections.png` | CRM "Change data type" step — six corrected types. **`deal_value` set to Decimal**, correcting Quick's auto-detected Integer |
+| `02_data_type_corrections.png` | CRM "Change data type 1" step. The panel lists six columns ("6 columns with data type changed"), but only two actually change type: **`deal_created_date` and `deal_closed_date`, Datetime → Date** (format yyyy-MM-dd). The other four keep their original type: `annual_revenue_usd` Decimal → Decimal, `employee_count` Integer → Integer, `list_price` Integer → Integer, `deal_value` Decimal → Decimal. No screenshot shows a Marketing type change: `01c` shows `annual_income` as Decimal in the prepared dataset, and `05` shows a "Change data type 1" step in the Marketing flow, but that step's settings were not captured |
 | `03_calculated_fields_crm.png` | CRM calculated fields: `days_to_close`, `is_won`, `discount_from_list_pct`, with formulas visible |
 | `04_calculated_fields_support.png` | Support calculated fields: `resolution_hours`, `sentiment_clean`, `is_high_priority`, `is_negative_sentiment` |
 | `05_calculated_fields_marketing.png` | Marketing calculated fields: `campaign_roi_pct`, `is_closed_won_lead`, `net_campaign_contribution` |

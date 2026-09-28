@@ -75,7 +75,8 @@ area, resolution time by priority, the sentiment mix, and — using the combined
 dataset — which accounts pair high revenue with heavy support load.
 
 Filter controls for region, deal stage, industry, company size, channel and
-segment sit at the top of each sheet. Clicking a bar filters the other visuals
+segment sit at the top of the Marketing Funnel and Sales Pipeline sheets.
+Clicking a bar filters the other visuals
 around it, and a navigation link moves between sheets so an account spotted on
 one view can be followed to another.
 
